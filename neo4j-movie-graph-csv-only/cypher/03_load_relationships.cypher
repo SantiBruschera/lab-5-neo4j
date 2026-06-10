@@ -1,7 +1,3 @@
-// Carga de relaciones a partir de los CSV de cruce
-
-// --- Jerarquia de contenido ---
-
 // Series -> Season (match por seriesId)
 LOAD CSV WITH HEADERS FROM 'file:///csv/seasons.csv' AS row
 MATCH (s:Series {id: row.seriesId})
@@ -14,7 +10,7 @@ MATCH (se:Season {id: row.seasonId})
 MATCH (e:Episode {id: row.id})
 MERGE (se)-[:HAS_EPISODE]->(e);
 
-// --- Generos ---
+
 
 // Movie -> Genre
 LOAD CSV WITH HEADERS FROM 'file:///csv/movie_genres.csv' AS row
@@ -28,7 +24,7 @@ MATCH (s:Series {id: row.seriesId})
 MATCH (g:Genre {id: row.genreId})
 MERGE (s)-[:HAS_GENRE]->(g);
 
-// --- Compañias productoras / cadenas ---
+
 
 // Movie -> Company
 LOAD CSV WITH HEADERS FROM 'file:///csv/production_companies.csv' AS row
@@ -44,7 +40,7 @@ MATCH (s:Series {id: row.workId})
 MATCH (co:Company {id: row.companyId})
 MERGE (s)-[:PRODUCED_BY]->(co);
 
-// --- Equipo tecnico (peliculas y series) ---
+
 
 // Person -> Movie (DIRECTED / WROTE / PRODUCED)
 LOAD CSV WITH HEADERS FROM 'file:///csv/movie_directors.csv' AS row
@@ -79,8 +75,7 @@ MATCH (p:Person {id: row.personId})
 MATCH (e:Episode {id: row.episodeId})
 MERGE (p)-[:WROTE]->(e);
 
-// --- Reparto (cast) ---
-// Por cada fila: Person ACTED_IN obra, Person PLAYED Character (con role), Character APPEARS_IN obra
+
 
 // Movie cast
 LOAD CSV WITH HEADERS FROM 'file:///csv/movie_cast.csv' AS row

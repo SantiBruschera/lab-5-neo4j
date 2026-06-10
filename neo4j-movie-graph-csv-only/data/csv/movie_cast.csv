@@ -1,0 +1,173 @@
+movieId,personId,characterId,roleName,sourceUrl
+movie-022,person-104,character-001,Andy Dufresne,https://www.wikidata.org/wiki/Q172241
+movie-025,person-105,character-002,Vito Corleone,https://www.wikidata.org/wiki/Q47703
+movie-025,person-106,character-003,Michael Corleone,https://www.wikidata.org/wiki/Q47703
+movie-025,person-107,character-004,Sonny Corleone,https://www.wikidata.org/wiki/Q47703
+movie-025,person-108,character-005,Kay Adams-Corleone,https://www.wikidata.org/wiki/Q47703
+movie-025,person-109,character-006,Connie Corleone,https://www.wikidata.org/wiki/Q47703
+movie-025,person-110,character-007,Tom Hagen,https://www.wikidata.org/wiki/Q47703
+movie-025,person-111,character-008,Fredo Corleone,https://www.wikidata.org/wiki/Q47703
+movie-025,person-112,character-009,Salvatore Tessio,https://www.wikidata.org/wiki/Q47703
+movie-016,person-113,character-010,The Joker,https://www.wikidata.org/wiki/Q163872
+movie-016,person-114,character-011,Bruce Wayne,https://www.wikidata.org/wiki/Q163872
+movie-016,person-115,character-012,Lucius Fox,https://www.wikidata.org/wiki/Q163872
+movie-016,person-116,character-013,Jim Gordon,https://www.wikidata.org/wiki/Q163872
+movie-016,person-117,character-014,Alfred Pennyworth,https://www.wikidata.org/wiki/Q163872
+movie-016,person-118,character-015,Harvey Dent,https://www.wikidata.org/wiki/Q163872
+movie-016,person-119,character-016,Rachel Dawes,https://www.wikidata.org/wiki/Q163872
+movie-016,person-120,character-017,Scarecrow,https://www.wikidata.org/wiki/Q163872
+movie-014,person-121,character-018,Dick Cavett,https://www.wikidata.org/wiki/Q134773
+movie-014,person-121,character-019,self,https://www.wikidata.org/wiki/Q134773
+movie-014,person-122,character-020,Forrest Gump,https://www.wikidata.org/wiki/Q134773
+movie-014,person-123,character-021,Bear Bryant,https://www.wikidata.org/wiki/Q134773
+movie-014,person-124,character-022,John Lennon,https://www.wikidata.org/wiki/Q134773
+movie-014,person-125,character-023,Lyndon B. Johnson,https://www.wikidata.org/wiki/Q134773
+movie-014,person-126,character-020,Forrest Gump,https://www.wikidata.org/wiki/Q134773
+movie-014,person-127,character-024,Jenny Curran,https://www.wikidata.org/wiki/Q134773
+movie-024,person-128,character-025,Tyler Durden,https://www.wikidata.org/wiki/Q190050
+movie-024,person-129,character-026,The Narrator,https://www.wikidata.org/wiki/Q190050
+movie-024,person-130,character-027,Robert Paulson,https://www.wikidata.org/wiki/Q190050
+movie-024,person-131,character-028,Marla Singer,https://www.wikidata.org/wiki/Q190050
+movie-024,person-132,character-029,Angel Face,https://www.wikidata.org/wiki/Q190050
+movie-010,person-133,character-030,Butch Coolidge,https://www.wikidata.org/wiki/Q104123
+movie-010,person-134,character-031,Vincent Vega,https://www.wikidata.org/wiki/Q104123
+movie-010,person-135,character-032,Mia Wallace,https://www.wikidata.org/wiki/Q104123
+movie-010,person-136,character-033,Jules Winnfield,https://www.wikidata.org/wiki/Q104123
+movie-010,person-137,character-034,Winston Wolfe,https://www.wikidata.org/wiki/Q104123
+movie-010,person-138,character-035,Marsellus Wallace,https://www.wikidata.org/wiki/Q104123
+movie-027,person-139,character-036,Amon Göth,https://www.wikidata.org/wiki/Q483941
+movie-027,person-140,character-037,Oskar Schindler,https://www.wikidata.org/wiki/Q483941
+movie-027,person-141,character-038,Itzhak Stern,https://www.wikidata.org/wiki/Q483941
+movie-027,person-142,character-039,Emilie Schindler,https://www.wikidata.org/wiki/Q483941
+movie-027,person-143,character-040,Helen Hirsch,https://www.wikidata.org/wiki/Q483941
+movie-027,person-144,character-041,Diana Reiter,https://www.wikidata.org/wiki/Q483941
+movie-027,person-145,character-042,Julian Scherner,https://www.wikidata.org/wiki/Q483941
+movie-027,person-146,character-043,Poldek Pfefferberg,https://www.wikidata.org/wiki/Q483941
+movie-008,person-147,character-044,Tank,https://www.wikidata.org/wiki/Q83495
+movie-008,person-148,character-045,Mouse,https://www.wikidata.org/wiki/Q83495
+movie-008,person-149,character-046,Agent Smith,https://www.wikidata.org/wiki/Q83495
+movie-008,person-150,character-047,Neo,https://www.wikidata.org/wiki/Q83495
+movie-008,person-151,character-048,Morpheus,https://www.wikidata.org/wiki/Q83495
+movie-008,person-152,character-049,Trinity,https://www.wikidata.org/wiki/Q83495
+movie-008,person-153,character-050,Cypher,https://www.wikidata.org/wiki/Q83495
+movie-008,person-154,character-051,Oracle,https://www.wikidata.org/wiki/Q83495
+movie-023,person-155,character-052,Han Solo,https://www.wikidata.org/wiki/Q181795
+movie-023,person-156,character-053,Obi-Wan Kenobi,https://www.wikidata.org/wiki/Q181795
+movie-023,person-157,character-054,Princess Leia,https://www.wikidata.org/wiki/Q181795
+movie-023,person-158,character-055,Darth Vader,https://www.wikidata.org/wiki/Q181795
+movie-023,person-159,character-056,Luke Skywalker,https://www.wikidata.org/wiki/Q181795
+movie-023,person-160,character-057,Yoda,https://www.wikidata.org/wiki/Q181795
+movie-023,person-161,character-058,Palpatine,https://www.wikidata.org/wiki/Q181795
+movie-023,person-162,character-059,Lando Calrissian,https://www.wikidata.org/wiki/Q181795
+movie-028,person-155,character-052,Han Solo,https://www.wikidata.org/wiki/Q17738
+movie-028,person-156,character-053,Obi-Wan Kenobi,https://www.wikidata.org/wiki/Q17738
+movie-028,person-157,character-054,Princess Leia,https://www.wikidata.org/wiki/Q17738
+movie-028,person-158,character-055,Darth Vader,https://www.wikidata.org/wiki/Q17738
+movie-028,person-163,character-055,Darth Vader,https://www.wikidata.org/wiki/Q17738
+movie-028,person-159,character-056,Luke Skywalker,https://www.wikidata.org/wiki/Q17738
+movie-028,person-164,character-060,Wilhuff Tarkin,https://www.wikidata.org/wiki/Q17738
+movie-028,person-165,character-061,Owen Lars,https://www.wikidata.org/wiki/Q17738
+movie-011,person-166,character-062,Gimli,https://www.wikidata.org/wiki/Q127367
+movie-011,person-149,character-063,Elrond,https://www.wikidata.org/wiki/Q127367
+movie-011,person-167,character-064,Legolas,https://www.wikidata.org/wiki/Q127367
+movie-011,person-168,character-065,Galadriel,https://www.wikidata.org/wiki/Q127367
+movie-011,person-169,character-066,Meriadoc Brandybuck,https://www.wikidata.org/wiki/Q127367
+movie-011,person-170,character-067,Arwen,https://www.wikidata.org/wiki/Q127367
+movie-011,person-171,character-068,Gandalf,https://www.wikidata.org/wiki/Q127367
+movie-011,person-172,character-069,Aragorn,https://www.wikidata.org/wiki/Q127367
+movie-012,person-167,character-064,Legolas,https://www.wikidata.org/wiki/Q131074
+movie-012,person-168,character-065,Galadriel,https://www.wikidata.org/wiki/Q131074
+movie-012,person-173,character-070,Éomer,https://www.wikidata.org/wiki/Q131074
+movie-012,person-169,character-066,Meriadoc Brandybuck,https://www.wikidata.org/wiki/Q131074
+movie-012,person-170,character-067,Arwen,https://www.wikidata.org/wiki/Q131074
+movie-012,person-172,character-069,Aragorn,https://www.wikidata.org/wiki/Q131074
+movie-012,person-174,character-071,Saruman,https://www.wikidata.org/wiki/Q131074
+movie-012,person-175,character-072,Samwise Gamgee,https://www.wikidata.org/wiki/Q131074
+movie-017,person-166,character-062,Gimli,https://www.wikidata.org/wiki/Q164963
+movie-017,person-166,character-073,Treebeard,https://www.wikidata.org/wiki/Q164963
+movie-017,person-149,character-063,Elrond,https://www.wikidata.org/wiki/Q164963
+movie-017,person-167,character-064,Legolas,https://www.wikidata.org/wiki/Q164963
+movie-017,person-168,character-065,Galadriel,https://www.wikidata.org/wiki/Q164963
+movie-017,person-173,character-070,Éomer,https://www.wikidata.org/wiki/Q164963
+movie-017,person-169,character-066,Meriadoc Brandybuck,https://www.wikidata.org/wiki/Q164963
+movie-017,person-170,character-067,Arwen,https://www.wikidata.org/wiki/Q164963
+movie-029,person-176,character-074,Mal,https://www.wikidata.org/wiki/Q25188
+movie-029,person-177,character-075,Dominick Cobb,https://www.wikidata.org/wiki/Q25188
+movie-029,person-178,character-076,Ariadne,https://www.wikidata.org/wiki/Q25188
+movie-029,person-179,character-077,Arthur,https://www.wikidata.org/wiki/Q25188
+movie-029,person-120,character-078,Robert Fischer,https://www.wikidata.org/wiki/Q25188
+movie-029,person-180,character-079,Eames,https://www.wikidata.org/wiki/Q25188
+movie-029,person-181,character-080,Saito,https://www.wikidata.org/wiki/Q25188
+movie-029,person-182,character-079,Eames,https://www.wikidata.org/wiki/Q25188
+movie-002,person-183,character-081,Amelia Brand,https://www.wikidata.org/wiki/Q13417189
+movie-002,person-184,character-082,Murphy Cooper,https://www.wikidata.org/wiki/Q13417189
+movie-002,person-185,character-083,CASE,https://www.wikidata.org/wiki/Q13417189
+movie-002,person-117,character-084,John Brand,https://www.wikidata.org/wiki/Q13417189
+movie-002,person-186,character-085,Hugh Mann,https://www.wikidata.org/wiki/Q13417189
+movie-002,person-187,character-086,Joseph Cooper,https://www.wikidata.org/wiki/Q13417189
+movie-002,person-188,character-082,Murphy Cooper,https://www.wikidata.org/wiki/Q13417189
+movie-002,person-189,character-082,Murphy Cooper,https://www.wikidata.org/wiki/Q13417189
+movie-026,person-190,character-087,John Doe,https://www.wikidata.org/wiki/Q190908
+movie-026,person-191,character-088,Tracy Mills,https://www.wikidata.org/wiki/Q190908
+movie-026,person-128,character-089,David Mills,https://www.wikidata.org/wiki/Q190908
+movie-026,person-115,character-090,William Somerset,https://www.wikidata.org/wiki/Q190908
+movie-019,person-192,character-091,George Marshall,https://www.wikidata.org/wiki/Q165817
+movie-009,person-193,character-092,Jennifer Parker,https://www.wikidata.org/wiki/Q91540
+movie-009,person-194,character-093,Emmett Brown,https://www.wikidata.org/wiki/Q91540
+movie-009,person-195,character-094,Lorraine Baines McFly,https://www.wikidata.org/wiki/Q91540
+movie-009,person-196,character-095,George McFly,https://www.wikidata.org/wiki/Q91540
+movie-009,person-197,character-096,Biff Tannen,https://www.wikidata.org/wiki/Q91540
+movie-009,person-198,character-097,Marty McFly,https://www.wikidata.org/wiki/Q91540
+movie-020,person-199,character-098,Terminator,https://www.wikidata.org/wiki/Q170564
+movie-020,person-200,character-099,Sarah Connor,https://www.wikidata.org/wiki/Q170564
+movie-020,person-201,character-100,Kyle Reese,https://www.wikidata.org/wiki/Q170564
+movie-020,person-202,character-101,T-1000,https://www.wikidata.org/wiki/Q170564
+movie-020,person-203,character-102,John Connor,https://www.wikidata.org/wiki/Q170564
+movie-020,person-204,character-103,Peter Silberman,https://www.wikidata.org/wiki/Q170564
+movie-020,person-205,character-104,Miles Dyson,https://www.wikidata.org/wiki/Q170564
+movie-020,person-206,character-102,John Connor,https://www.wikidata.org/wiki/Q170564
+movie-018,person-135,character-105,Beatrix Kiddo,https://www.wikidata.org/wiki/Q165325
+movie-018,person-207,character-106,Bill,https://www.wikidata.org/wiki/Q165325
+movie-018,person-208,character-107,O-Ren Ishii,https://www.wikidata.org/wiki/Q165325
+movie-018,person-209,character-108,Elle Driver,https://www.wikidata.org/wiki/Q165325
+movie-018,person-210,character-109,Vernita Green,https://www.wikidata.org/wiki/Q165325
+movie-018,person-211,character-110,Budd,https://www.wikidata.org/wiki/Q165325
+movie-018,person-212,character-111,Gogo Yubari,https://www.wikidata.org/wiki/Q165325
+movie-018,person-213,character-112,Sofie Fatale,https://www.wikidata.org/wiki/Q165325
+movie-015,person-214,character-113,Adolf Hitler,https://www.wikidata.org/wiki/Q153723
+movie-015,person-215,character-114,Joseph Goebbels,https://www.wikidata.org/wiki/Q153723
+movie-015,person-216,character-115,Hans Landa,https://www.wikidata.org/wiki/Q153723
+movie-015,person-217,character-116,Winston Churchill,https://www.wikidata.org/wiki/Q153723
+movie-001,person-218,character-117,Broomhilda von Shaft,https://www.wikidata.org/wiki/Q571032
+movie-001,person-219,character-118,Amerigo Vessepi,https://www.wikidata.org/wiki/Q571032
+movie-001,person-220,character-119,Cora,https://www.wikidata.org/wiki/Q571032
+movie-001,person-216,character-120,King Schultz,https://www.wikidata.org/wiki/Q571032
+movie-001,person-221,character-121,Django Freeman,https://www.wikidata.org/wiki/Q571032
+movie-001,person-136,character-122,Stephen,https://www.wikidata.org/wiki/Q571032
+movie-001,person-222,character-123,Spencer Bennett,https://www.wikidata.org/wiki/Q571032
+movie-001,person-223,character-124,Billy Crash,https://www.wikidata.org/wiki/Q571032
+movie-004,person-224,character-125,Natasha Romanoff,https://www.wikidata.org/wiki/Q23780914
+movie-004,person-191,character-126,Pepper Potts,https://www.wikidata.org/wiki/Q23780914
+movie-004,person-225,character-127,Thanos,https://www.wikidata.org/wiki/Q23780914
+movie-004,person-226,character-128,Bruce Banner,https://www.wikidata.org/wiki/Q23780914
+movie-004,person-227,character-129,Thor,https://www.wikidata.org/wiki/Q23780914
+movie-004,person-228,character-130,Thaddeus Ross,https://www.wikidata.org/wiki/Q23780914
+movie-004,person-229,character-131,Tony Stark,https://www.wikidata.org/wiki/Q23780914
+movie-004,person-136,character-132,Nick Fury,https://www.wikidata.org/wiki/Q23780914
+movie-005,person-224,character-125,Natasha Romanoff,https://www.wikidata.org/wiki/Q23781155
+movie-005,person-191,character-126,Pepper Potts,https://www.wikidata.org/wiki/Q23781155
+movie-005,person-226,character-128,Bruce Banner,https://www.wikidata.org/wiki/Q23781155
+movie-005,person-230,character-133,Alexander Pierce,https://www.wikidata.org/wiki/Q23781155
+movie-005,person-228,character-130,Thaddeus Ross,https://www.wikidata.org/wiki/Q23781155
+movie-005,person-231,character-134,Hope van Dyne,https://www.wikidata.org/wiki/Q23781155
+movie-005,person-229,character-131,Tony Stark,https://www.wikidata.org/wiki/Q23781155
+movie-005,person-136,character-132,Nick Fury,https://www.wikidata.org/wiki/Q23781155
+movie-006,person-232,character-135,Murray Franklin,https://www.wikidata.org/wiki/Q42759035
+movie-006,person-233,character-136,Thomas Wayne,https://www.wikidata.org/wiki/Q42759035
+movie-006,person-234,character-137,The Joker,https://www.wikidata.org/wiki/Q42759035
+movie-006,person-234,character-138,Arthur Fleck,https://www.wikidata.org/wiki/Q42759035
+movie-006,person-235,character-139,Penny Fleck,https://www.wikidata.org/wiki/Q42759035
+movie-006,person-236,character-014,Alfred Pennyworth,https://www.wikidata.org/wiki/Q42759035
+movie-006,person-237,character-139,Penny Fleck,https://www.wikidata.org/wiki/Q42759035
+movie-006,person-238,character-140,Bruce Wayne,https://www.wikidata.org/wiki/Q42759035
+movie-003,person-150,character-141,John Wick,https://www.wikidata.org/wiki/Q15732802

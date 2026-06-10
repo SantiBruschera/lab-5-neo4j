@@ -1,0 +1,46 @@
+id,name,country,foundedYear,wikidataId,tvmazeId,sourceUrl
+company-001,New Line Cinema,United States,1967,Q79202,,https://www.wikidata.org/wiki/Q79202
+company-002,Warner Bros. Entertainment,United States,1923,Q126399,,https://www.wikidata.org/wiki/Q126399
+company-003,Pixar,United States,1986,Q127552,,https://www.wikidata.org/wiki/Q127552
+company-004,Paramount Pictures,United States,1912,Q159846,,https://www.wikidata.org/wiki/Q159846
+company-005,Universal Pictures,United States,1912,Q168383,,https://www.wikidata.org/wiki/Q168383
+company-006,Columbia Pictures,United States,1918,Q186941,,https://www.wikidata.org/wiki/Q186941
+company-007,Walt Disney Pictures,United States,1923,Q191224,,https://www.wikidata.org/wiki/Q191224
+company-008,DreamWorks,United States,1994,Q192557,,https://www.wikidata.org/wiki/Q192557
+company-009,Lucasfilm,United States,1971,Q242446,,https://www.wikidata.org/wiki/Q242446
+company-010,A Band Apart,United States,1991,Q300323,,https://www.wikidata.org/wiki/Q300323
+company-011,Marvel Studios,United States,1993,Q367466,,https://www.wikidata.org/wiki/Q367466
+company-012,20th Century Studios,United States,1935,Q434841,,https://www.wikidata.org/wiki/Q434841
+company-013,Amblin Entertainment,United States,1981,Q457893,,https://www.wikidata.org/wiki/Q457893
+company-014,Miramax,Canada,1979,Q465449,,https://www.wikidata.org/wiki/Q465449
+company-015,Regency Enterprises,United States,1982,Q466459,,https://www.wikidata.org/wiki/Q466459
+company-016,Mutual Film Corporation,United States,,Q540590,,https://www.wikidata.org/wiki/Q540590
+company-017,Legendary Pictures,United States,2000,Q621364,,https://www.wikidata.org/wiki/Q621364
+company-018,Village Roadshow Pictures,United States,1986,Q622668,,https://www.wikidata.org/wiki/Q622668
+company-019,Castle Rock Entertainment,United States,1985,Q622848,,https://www.wikidata.org/wiki/Q622848
+company-020,Summit Entertainment,United States,1991,Q632323,,https://www.wikidata.org/wiki/Q632323
+company-021,Babelsberg Studio,Germany,1912,Q705676,,https://www.wikidata.org/wiki/Q705676
+company-022,Lightstorm Entertainment,United States,1990,Q775450,,https://www.wikidata.org/wiki/Q775450
+company-023,Syncopy Inc.,United States,2001,Q984047,,https://www.wikidata.org/wiki/Q984047
+company-024,Carolco Pictures,,1976,Q1044291,,https://www.wikidata.org/wiki/Q1044291
+company-025,Q1047410,United States,1923,Q1047410,,https://www.wikidata.org/wiki/Q1047410
+company-026,The Weinstein Company,United States,2005,Q1138789,,https://www.wikidata.org/wiki/Q1138789
+company-027,Silver Pictures,United States,1980,Q1188938,,https://www.wikidata.org/wiki/Q1188938
+company-028,Walt Disney Studios Motion Pictures,United States,1953,Q1323594,,https://www.wikidata.org/wiki/Q1323594
+company-029,StudioCanal,France,1984,Q2450848,,https://www.wikidata.org/wiki/Q2450848
+company-030,DC Comics,United States,1977,Q2924461,,https://www.wikidata.org/wiki/Q2924461
+company-031,DC Entertainment,,2009,Q3011161,,https://www.wikidata.org/wiki/Q3011161
+company-032,Jersey Films,,1992,Q3177524,,https://www.wikidata.org/wiki/Q3177524
+company-033,WingNut Films,New Zealand,1987,Q3569323,,https://www.wikidata.org/wiki/Q3569323
+company-034,CJ Entertainment,Turkey,1995,Q5012265,,https://www.wikidata.org/wiki/Q5012265
+company-035,Warner Bros. Pictures,United States,1969,Q8016302,,https://www.wikidata.org/wiki/Q8016302
+company-036,Alfran Productions,,,Q17305146,,https://www.wikidata.org/wiki/Q17305146
+company-037,Pacific Western Productions,,,Q17335705,,https://www.wikidata.org/wiki/Q17335705
+company-038,DC Studios,United States,2022,Q31197934,,https://www.wikidata.org/wiki/Q31197934
+company-039,Q65557474,United States,1923,Q65557474,,https://www.wikidata.org/wiki/Q65557474
+company-040,Barunson E&A,South Korea,1996,Q86110392,,https://www.wikidata.org/wiki/Q86110392
+company-041,HBO,United States,,,8,https://www.hbo.com/
+company-042,AMC,United States,,,20,https://www.tvmaze.com/shows/169/breaking-bad
+company-043,NBC,United States,,,1,https://www.nbc.com/
+company-044,Netflix,,,,1,https://www.netflix.com/
+company-045,ABC,United States,,,3,https://abc.com/

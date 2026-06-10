@@ -1,0 +1,601 @@
+episodeId,personId,characterId,roleName,sourceUrl
+episode-001,person-241,character-142,Tyrion Lannister,https://www.tvmaze.com/shows/82/game-of-thrones
+episode-001,person-242,character-143,Jon Snow,https://www.tvmaze.com/shows/82/game-of-thrones
+episode-001,person-243,character-144,Queen Cersei Lannister,https://www.tvmaze.com/shows/82/game-of-thrones
+episode-001,person-244,character-145,Daenerys Targaryen,https://www.tvmaze.com/shows/82/game-of-thrones
+episode-001,person-245,character-146,Sansa Stark,https://www.tvmaze.com/shows/82/game-of-thrones
+episode-002,person-241,character-142,Tyrion Lannister,https://www.tvmaze.com/shows/82/game-of-thrones
+episode-002,person-242,character-143,Jon Snow,https://www.tvmaze.com/shows/82/game-of-thrones
+episode-002,person-243,character-144,Queen Cersei Lannister,https://www.tvmaze.com/shows/82/game-of-thrones
+episode-002,person-244,character-145,Daenerys Targaryen,https://www.tvmaze.com/shows/82/game-of-thrones
+episode-002,person-245,character-146,Sansa Stark,https://www.tvmaze.com/shows/82/game-of-thrones
+episode-003,person-241,character-142,Tyrion Lannister,https://www.tvmaze.com/shows/82/game-of-thrones
+episode-003,person-242,character-143,Jon Snow,https://www.tvmaze.com/shows/82/game-of-thrones
+episode-003,person-243,character-144,Queen Cersei Lannister,https://www.tvmaze.com/shows/82/game-of-thrones
+episode-003,person-244,character-145,Daenerys Targaryen,https://www.tvmaze.com/shows/82/game-of-thrones
+episode-003,person-245,character-146,Sansa Stark,https://www.tvmaze.com/shows/82/game-of-thrones
+episode-004,person-241,character-142,Tyrion Lannister,https://www.tvmaze.com/shows/82/game-of-thrones
+episode-004,person-242,character-143,Jon Snow,https://www.tvmaze.com/shows/82/game-of-thrones
+episode-004,person-243,character-144,Queen Cersei Lannister,https://www.tvmaze.com/shows/82/game-of-thrones
+episode-004,person-244,character-145,Daenerys Targaryen,https://www.tvmaze.com/shows/82/game-of-thrones
+episode-004,person-245,character-146,Sansa Stark,https://www.tvmaze.com/shows/82/game-of-thrones
+episode-005,person-241,character-142,Tyrion Lannister,https://www.tvmaze.com/shows/82/game-of-thrones
+episode-005,person-242,character-143,Jon Snow,https://www.tvmaze.com/shows/82/game-of-thrones
+episode-005,person-243,character-144,Queen Cersei Lannister,https://www.tvmaze.com/shows/82/game-of-thrones
+episode-005,person-244,character-145,Daenerys Targaryen,https://www.tvmaze.com/shows/82/game-of-thrones
+episode-005,person-245,character-146,Sansa Stark,https://www.tvmaze.com/shows/82/game-of-thrones
+episode-006,person-241,character-142,Tyrion Lannister,https://www.tvmaze.com/shows/82/game-of-thrones
+episode-006,person-242,character-143,Jon Snow,https://www.tvmaze.com/shows/82/game-of-thrones
+episode-006,person-243,character-144,Queen Cersei Lannister,https://www.tvmaze.com/shows/82/game-of-thrones
+episode-006,person-244,character-145,Daenerys Targaryen,https://www.tvmaze.com/shows/82/game-of-thrones
+episode-006,person-245,character-146,Sansa Stark,https://www.tvmaze.com/shows/82/game-of-thrones
+episode-007,person-241,character-142,Tyrion Lannister,https://www.tvmaze.com/shows/82/game-of-thrones
+episode-007,person-242,character-143,Jon Snow,https://www.tvmaze.com/shows/82/game-of-thrones
+episode-007,person-243,character-144,Queen Cersei Lannister,https://www.tvmaze.com/shows/82/game-of-thrones
+episode-007,person-244,character-145,Daenerys Targaryen,https://www.tvmaze.com/shows/82/game-of-thrones
+episode-007,person-245,character-146,Sansa Stark,https://www.tvmaze.com/shows/82/game-of-thrones
+episode-008,person-241,character-142,Tyrion Lannister,https://www.tvmaze.com/shows/82/game-of-thrones
+episode-008,person-242,character-143,Jon Snow,https://www.tvmaze.com/shows/82/game-of-thrones
+episode-008,person-243,character-144,Queen Cersei Lannister,https://www.tvmaze.com/shows/82/game-of-thrones
+episode-008,person-244,character-145,Daenerys Targaryen,https://www.tvmaze.com/shows/82/game-of-thrones
+episode-008,person-245,character-146,Sansa Stark,https://www.tvmaze.com/shows/82/game-of-thrones
+episode-009,person-241,character-142,Tyrion Lannister,https://www.tvmaze.com/shows/82/game-of-thrones
+episode-009,person-242,character-143,Jon Snow,https://www.tvmaze.com/shows/82/game-of-thrones
+episode-009,person-243,character-144,Queen Cersei Lannister,https://www.tvmaze.com/shows/82/game-of-thrones
+episode-009,person-244,character-145,Daenerys Targaryen,https://www.tvmaze.com/shows/82/game-of-thrones
+episode-009,person-245,character-146,Sansa Stark,https://www.tvmaze.com/shows/82/game-of-thrones
+episode-010,person-241,character-142,Tyrion Lannister,https://www.tvmaze.com/shows/82/game-of-thrones
+episode-010,person-242,character-143,Jon Snow,https://www.tvmaze.com/shows/82/game-of-thrones
+episode-010,person-243,character-144,Queen Cersei Lannister,https://www.tvmaze.com/shows/82/game-of-thrones
+episode-010,person-244,character-145,Daenerys Targaryen,https://www.tvmaze.com/shows/82/game-of-thrones
+episode-010,person-245,character-146,Sansa Stark,https://www.tvmaze.com/shows/82/game-of-thrones
+episode-011,person-241,character-142,Tyrion Lannister,https://www.tvmaze.com/shows/82/game-of-thrones
+episode-011,person-242,character-143,Jon Snow,https://www.tvmaze.com/shows/82/game-of-thrones
+episode-011,person-243,character-144,Queen Cersei Lannister,https://www.tvmaze.com/shows/82/game-of-thrones
+episode-011,person-244,character-145,Daenerys Targaryen,https://www.tvmaze.com/shows/82/game-of-thrones
+episode-011,person-245,character-146,Sansa Stark,https://www.tvmaze.com/shows/82/game-of-thrones
+episode-012,person-241,character-142,Tyrion Lannister,https://www.tvmaze.com/shows/82/game-of-thrones
+episode-012,person-242,character-143,Jon Snow,https://www.tvmaze.com/shows/82/game-of-thrones
+episode-012,person-243,character-144,Queen Cersei Lannister,https://www.tvmaze.com/shows/82/game-of-thrones
+episode-012,person-244,character-145,Daenerys Targaryen,https://www.tvmaze.com/shows/82/game-of-thrones
+episode-012,person-245,character-146,Sansa Stark,https://www.tvmaze.com/shows/82/game-of-thrones
+episode-013,person-256,character-147,Walter White,https://www.tvmaze.com/shows/169/breaking-bad
+episode-013,person-257,character-148,Jesse Pinkman,https://www.tvmaze.com/shows/169/breaking-bad
+episode-013,person-258,character-149,Skyler White,https://www.tvmaze.com/shows/169/breaking-bad
+episode-013,person-259,character-150,Walter White Jr.,https://www.tvmaze.com/shows/169/breaking-bad
+episode-013,person-260,character-151,Hank Schrader,https://www.tvmaze.com/shows/169/breaking-bad
+episode-014,person-256,character-147,Walter White,https://www.tvmaze.com/shows/169/breaking-bad
+episode-014,person-257,character-148,Jesse Pinkman,https://www.tvmaze.com/shows/169/breaking-bad
+episode-014,person-258,character-149,Skyler White,https://www.tvmaze.com/shows/169/breaking-bad
+episode-014,person-259,character-150,Walter White Jr.,https://www.tvmaze.com/shows/169/breaking-bad
+episode-014,person-260,character-151,Hank Schrader,https://www.tvmaze.com/shows/169/breaking-bad
+episode-015,person-256,character-147,Walter White,https://www.tvmaze.com/shows/169/breaking-bad
+episode-015,person-257,character-148,Jesse Pinkman,https://www.tvmaze.com/shows/169/breaking-bad
+episode-015,person-258,character-149,Skyler White,https://www.tvmaze.com/shows/169/breaking-bad
+episode-015,person-259,character-150,Walter White Jr.,https://www.tvmaze.com/shows/169/breaking-bad
+episode-015,person-260,character-151,Hank Schrader,https://www.tvmaze.com/shows/169/breaking-bad
+episode-016,person-256,character-147,Walter White,https://www.tvmaze.com/shows/169/breaking-bad
+episode-016,person-257,character-148,Jesse Pinkman,https://www.tvmaze.com/shows/169/breaking-bad
+episode-016,person-258,character-149,Skyler White,https://www.tvmaze.com/shows/169/breaking-bad
+episode-016,person-259,character-150,Walter White Jr.,https://www.tvmaze.com/shows/169/breaking-bad
+episode-016,person-260,character-151,Hank Schrader,https://www.tvmaze.com/shows/169/breaking-bad
+episode-017,person-256,character-147,Walter White,https://www.tvmaze.com/shows/169/breaking-bad
+episode-017,person-257,character-148,Jesse Pinkman,https://www.tvmaze.com/shows/169/breaking-bad
+episode-017,person-258,character-149,Skyler White,https://www.tvmaze.com/shows/169/breaking-bad
+episode-017,person-259,character-150,Walter White Jr.,https://www.tvmaze.com/shows/169/breaking-bad
+episode-017,person-260,character-151,Hank Schrader,https://www.tvmaze.com/shows/169/breaking-bad
+episode-018,person-256,character-147,Walter White,https://www.tvmaze.com/shows/169/breaking-bad
+episode-018,person-257,character-148,Jesse Pinkman,https://www.tvmaze.com/shows/169/breaking-bad
+episode-018,person-258,character-149,Skyler White,https://www.tvmaze.com/shows/169/breaking-bad
+episode-018,person-259,character-150,Walter White Jr.,https://www.tvmaze.com/shows/169/breaking-bad
+episode-018,person-260,character-151,Hank Schrader,https://www.tvmaze.com/shows/169/breaking-bad
+episode-019,person-256,character-147,Walter White,https://www.tvmaze.com/shows/169/breaking-bad
+episode-019,person-257,character-148,Jesse Pinkman,https://www.tvmaze.com/shows/169/breaking-bad
+episode-019,person-258,character-149,Skyler White,https://www.tvmaze.com/shows/169/breaking-bad
+episode-019,person-259,character-150,Walter White Jr.,https://www.tvmaze.com/shows/169/breaking-bad
+episode-019,person-260,character-151,Hank Schrader,https://www.tvmaze.com/shows/169/breaking-bad
+episode-020,person-256,character-147,Walter White,https://www.tvmaze.com/shows/169/breaking-bad
+episode-020,person-257,character-148,Jesse Pinkman,https://www.tvmaze.com/shows/169/breaking-bad
+episode-020,person-258,character-149,Skyler White,https://www.tvmaze.com/shows/169/breaking-bad
+episode-020,person-259,character-150,Walter White Jr.,https://www.tvmaze.com/shows/169/breaking-bad
+episode-020,person-260,character-151,Hank Schrader,https://www.tvmaze.com/shows/169/breaking-bad
+episode-021,person-256,character-147,Walter White,https://www.tvmaze.com/shows/169/breaking-bad
+episode-021,person-257,character-148,Jesse Pinkman,https://www.tvmaze.com/shows/169/breaking-bad
+episode-021,person-258,character-149,Skyler White,https://www.tvmaze.com/shows/169/breaking-bad
+episode-021,person-259,character-150,Walter White Jr.,https://www.tvmaze.com/shows/169/breaking-bad
+episode-021,person-260,character-151,Hank Schrader,https://www.tvmaze.com/shows/169/breaking-bad
+episode-022,person-256,character-147,Walter White,https://www.tvmaze.com/shows/169/breaking-bad
+episode-022,person-257,character-148,Jesse Pinkman,https://www.tvmaze.com/shows/169/breaking-bad
+episode-022,person-258,character-149,Skyler White,https://www.tvmaze.com/shows/169/breaking-bad
+episode-022,person-259,character-150,Walter White Jr.,https://www.tvmaze.com/shows/169/breaking-bad
+episode-022,person-260,character-151,Hank Schrader,https://www.tvmaze.com/shows/169/breaking-bad
+episode-023,person-256,character-147,Walter White,https://www.tvmaze.com/shows/169/breaking-bad
+episode-023,person-257,character-148,Jesse Pinkman,https://www.tvmaze.com/shows/169/breaking-bad
+episode-023,person-258,character-149,Skyler White,https://www.tvmaze.com/shows/169/breaking-bad
+episode-023,person-259,character-150,Walter White Jr.,https://www.tvmaze.com/shows/169/breaking-bad
+episode-023,person-260,character-151,Hank Schrader,https://www.tvmaze.com/shows/169/breaking-bad
+episode-024,person-256,character-147,Walter White,https://www.tvmaze.com/shows/169/breaking-bad
+episode-024,person-257,character-148,Jesse Pinkman,https://www.tvmaze.com/shows/169/breaking-bad
+episode-024,person-258,character-149,Skyler White,https://www.tvmaze.com/shows/169/breaking-bad
+episode-024,person-259,character-150,Walter White Jr.,https://www.tvmaze.com/shows/169/breaking-bad
+episode-024,person-260,character-151,Hank Schrader,https://www.tvmaze.com/shows/169/breaking-bad
+episode-025,person-273,character-152,Lt. Cedric Daniels,https://www.tvmaze.com/shows/179/the-wire
+episode-025,person-274,character-153,"Det. Shakima ""Kima"" Greggs",https://www.tvmaze.com/shows/179/the-wire
+episode-025,person-275,character-154,"Off. James ""Jimmy"" McNulty",https://www.tvmaze.com/shows/179/the-wire
+episode-025,person-276,character-155,Det. Lester Freamon,https://www.tvmaze.com/shows/179/the-wire
+episode-025,person-277,character-156,"Det. Thomas ""Herc"" Hauk",https://www.tvmaze.com/shows/179/the-wire
+episode-026,person-273,character-152,Lt. Cedric Daniels,https://www.tvmaze.com/shows/179/the-wire
+episode-026,person-274,character-153,"Det. Shakima ""Kima"" Greggs",https://www.tvmaze.com/shows/179/the-wire
+episode-026,person-275,character-154,"Off. James ""Jimmy"" McNulty",https://www.tvmaze.com/shows/179/the-wire
+episode-026,person-276,character-155,Det. Lester Freamon,https://www.tvmaze.com/shows/179/the-wire
+episode-026,person-277,character-156,"Det. Thomas ""Herc"" Hauk",https://www.tvmaze.com/shows/179/the-wire
+episode-027,person-273,character-152,Lt. Cedric Daniels,https://www.tvmaze.com/shows/179/the-wire
+episode-027,person-274,character-153,"Det. Shakima ""Kima"" Greggs",https://www.tvmaze.com/shows/179/the-wire
+episode-027,person-275,character-154,"Off. James ""Jimmy"" McNulty",https://www.tvmaze.com/shows/179/the-wire
+episode-027,person-276,character-155,Det. Lester Freamon,https://www.tvmaze.com/shows/179/the-wire
+episode-027,person-277,character-156,"Det. Thomas ""Herc"" Hauk",https://www.tvmaze.com/shows/179/the-wire
+episode-028,person-273,character-152,Lt. Cedric Daniels,https://www.tvmaze.com/shows/179/the-wire
+episode-028,person-274,character-153,"Det. Shakima ""Kima"" Greggs",https://www.tvmaze.com/shows/179/the-wire
+episode-028,person-275,character-154,"Off. James ""Jimmy"" McNulty",https://www.tvmaze.com/shows/179/the-wire
+episode-028,person-276,character-155,Det. Lester Freamon,https://www.tvmaze.com/shows/179/the-wire
+episode-028,person-277,character-156,"Det. Thomas ""Herc"" Hauk",https://www.tvmaze.com/shows/179/the-wire
+episode-029,person-273,character-152,Lt. Cedric Daniels,https://www.tvmaze.com/shows/179/the-wire
+episode-029,person-274,character-153,"Det. Shakima ""Kima"" Greggs",https://www.tvmaze.com/shows/179/the-wire
+episode-029,person-275,character-154,"Off. James ""Jimmy"" McNulty",https://www.tvmaze.com/shows/179/the-wire
+episode-029,person-276,character-155,Det. Lester Freamon,https://www.tvmaze.com/shows/179/the-wire
+episode-029,person-277,character-156,"Det. Thomas ""Herc"" Hauk",https://www.tvmaze.com/shows/179/the-wire
+episode-030,person-273,character-152,Lt. Cedric Daniels,https://www.tvmaze.com/shows/179/the-wire
+episode-030,person-274,character-153,"Det. Shakima ""Kima"" Greggs",https://www.tvmaze.com/shows/179/the-wire
+episode-030,person-275,character-154,"Off. James ""Jimmy"" McNulty",https://www.tvmaze.com/shows/179/the-wire
+episode-030,person-276,character-155,Det. Lester Freamon,https://www.tvmaze.com/shows/179/the-wire
+episode-030,person-277,character-156,"Det. Thomas ""Herc"" Hauk",https://www.tvmaze.com/shows/179/the-wire
+episode-031,person-273,character-152,Lt. Cedric Daniels,https://www.tvmaze.com/shows/179/the-wire
+episode-031,person-274,character-153,"Det. Shakima ""Kima"" Greggs",https://www.tvmaze.com/shows/179/the-wire
+episode-031,person-275,character-154,"Off. James ""Jimmy"" McNulty",https://www.tvmaze.com/shows/179/the-wire
+episode-031,person-276,character-155,Det. Lester Freamon,https://www.tvmaze.com/shows/179/the-wire
+episode-031,person-277,character-156,"Det. Thomas ""Herc"" Hauk",https://www.tvmaze.com/shows/179/the-wire
+episode-032,person-273,character-152,Lt. Cedric Daniels,https://www.tvmaze.com/shows/179/the-wire
+episode-032,person-274,character-153,"Det. Shakima ""Kima"" Greggs",https://www.tvmaze.com/shows/179/the-wire
+episode-032,person-275,character-154,"Off. James ""Jimmy"" McNulty",https://www.tvmaze.com/shows/179/the-wire
+episode-032,person-276,character-155,Det. Lester Freamon,https://www.tvmaze.com/shows/179/the-wire
+episode-032,person-277,character-156,"Det. Thomas ""Herc"" Hauk",https://www.tvmaze.com/shows/179/the-wire
+episode-033,person-273,character-152,Lt. Cedric Daniels,https://www.tvmaze.com/shows/179/the-wire
+episode-033,person-274,character-153,"Det. Shakima ""Kima"" Greggs",https://www.tvmaze.com/shows/179/the-wire
+episode-033,person-275,character-154,"Off. James ""Jimmy"" McNulty",https://www.tvmaze.com/shows/179/the-wire
+episode-033,person-276,character-155,Det. Lester Freamon,https://www.tvmaze.com/shows/179/the-wire
+episode-033,person-277,character-156,"Det. Thomas ""Herc"" Hauk",https://www.tvmaze.com/shows/179/the-wire
+episode-034,person-273,character-152,Lt. Cedric Daniels,https://www.tvmaze.com/shows/179/the-wire
+episode-034,person-274,character-153,"Det. Shakima ""Kima"" Greggs",https://www.tvmaze.com/shows/179/the-wire
+episode-034,person-275,character-154,"Off. James ""Jimmy"" McNulty",https://www.tvmaze.com/shows/179/the-wire
+episode-034,person-276,character-155,Det. Lester Freamon,https://www.tvmaze.com/shows/179/the-wire
+episode-034,person-277,character-156,"Det. Thomas ""Herc"" Hauk",https://www.tvmaze.com/shows/179/the-wire
+episode-035,person-273,character-152,Lt. Cedric Daniels,https://www.tvmaze.com/shows/179/the-wire
+episode-035,person-274,character-153,"Det. Shakima ""Kima"" Greggs",https://www.tvmaze.com/shows/179/the-wire
+episode-035,person-275,character-154,"Off. James ""Jimmy"" McNulty",https://www.tvmaze.com/shows/179/the-wire
+episode-035,person-276,character-155,Det. Lester Freamon,https://www.tvmaze.com/shows/179/the-wire
+episode-035,person-277,character-156,"Det. Thomas ""Herc"" Hauk",https://www.tvmaze.com/shows/179/the-wire
+episode-036,person-273,character-152,Lt. Cedric Daniels,https://www.tvmaze.com/shows/179/the-wire
+episode-036,person-274,character-153,"Det. Shakima ""Kima"" Greggs",https://www.tvmaze.com/shows/179/the-wire
+episode-036,person-275,character-154,"Off. James ""Jimmy"" McNulty",https://www.tvmaze.com/shows/179/the-wire
+episode-036,person-276,character-155,Det. Lester Freamon,https://www.tvmaze.com/shows/179/the-wire
+episode-036,person-277,character-156,"Det. Thomas ""Herc"" Hauk",https://www.tvmaze.com/shows/179/the-wire
+episode-037,person-292,character-157,Tony Soprano,https://www.tvmaze.com/shows/527/the-sopranos
+episode-037,person-293,character-158,Carmela Soprano,https://www.tvmaze.com/shows/527/the-sopranos
+episode-037,person-294,character-159,Christopher Moltisanti,https://www.tvmaze.com/shows/527/the-sopranos
+episode-037,person-295,character-160,Silvio Dante,https://www.tvmaze.com/shows/527/the-sopranos
+episode-037,person-296,character-161,Paulie 'Walnuts' Gualtieri,https://www.tvmaze.com/shows/527/the-sopranos
+episode-038,person-292,character-157,Tony Soprano,https://www.tvmaze.com/shows/527/the-sopranos
+episode-038,person-293,character-158,Carmela Soprano,https://www.tvmaze.com/shows/527/the-sopranos
+episode-038,person-294,character-159,Christopher Moltisanti,https://www.tvmaze.com/shows/527/the-sopranos
+episode-038,person-295,character-160,Silvio Dante,https://www.tvmaze.com/shows/527/the-sopranos
+episode-038,person-296,character-161,Paulie 'Walnuts' Gualtieri,https://www.tvmaze.com/shows/527/the-sopranos
+episode-039,person-292,character-157,Tony Soprano,https://www.tvmaze.com/shows/527/the-sopranos
+episode-039,person-293,character-158,Carmela Soprano,https://www.tvmaze.com/shows/527/the-sopranos
+episode-039,person-294,character-159,Christopher Moltisanti,https://www.tvmaze.com/shows/527/the-sopranos
+episode-039,person-295,character-160,Silvio Dante,https://www.tvmaze.com/shows/527/the-sopranos
+episode-039,person-296,character-161,Paulie 'Walnuts' Gualtieri,https://www.tvmaze.com/shows/527/the-sopranos
+episode-040,person-292,character-157,Tony Soprano,https://www.tvmaze.com/shows/527/the-sopranos
+episode-040,person-293,character-158,Carmela Soprano,https://www.tvmaze.com/shows/527/the-sopranos
+episode-040,person-294,character-159,Christopher Moltisanti,https://www.tvmaze.com/shows/527/the-sopranos
+episode-040,person-295,character-160,Silvio Dante,https://www.tvmaze.com/shows/527/the-sopranos
+episode-040,person-296,character-161,Paulie 'Walnuts' Gualtieri,https://www.tvmaze.com/shows/527/the-sopranos
+episode-041,person-292,character-157,Tony Soprano,https://www.tvmaze.com/shows/527/the-sopranos
+episode-041,person-293,character-158,Carmela Soprano,https://www.tvmaze.com/shows/527/the-sopranos
+episode-041,person-294,character-159,Christopher Moltisanti,https://www.tvmaze.com/shows/527/the-sopranos
+episode-041,person-295,character-160,Silvio Dante,https://www.tvmaze.com/shows/527/the-sopranos
+episode-041,person-296,character-161,Paulie 'Walnuts' Gualtieri,https://www.tvmaze.com/shows/527/the-sopranos
+episode-042,person-292,character-157,Tony Soprano,https://www.tvmaze.com/shows/527/the-sopranos
+episode-042,person-293,character-158,Carmela Soprano,https://www.tvmaze.com/shows/527/the-sopranos
+episode-042,person-294,character-159,Christopher Moltisanti,https://www.tvmaze.com/shows/527/the-sopranos
+episode-042,person-295,character-160,Silvio Dante,https://www.tvmaze.com/shows/527/the-sopranos
+episode-042,person-296,character-161,Paulie 'Walnuts' Gualtieri,https://www.tvmaze.com/shows/527/the-sopranos
+episode-043,person-292,character-157,Tony Soprano,https://www.tvmaze.com/shows/527/the-sopranos
+episode-043,person-293,character-158,Carmela Soprano,https://www.tvmaze.com/shows/527/the-sopranos
+episode-043,person-294,character-159,Christopher Moltisanti,https://www.tvmaze.com/shows/527/the-sopranos
+episode-043,person-295,character-160,Silvio Dante,https://www.tvmaze.com/shows/527/the-sopranos
+episode-043,person-296,character-161,Paulie 'Walnuts' Gualtieri,https://www.tvmaze.com/shows/527/the-sopranos
+episode-044,person-292,character-157,Tony Soprano,https://www.tvmaze.com/shows/527/the-sopranos
+episode-044,person-293,character-158,Carmela Soprano,https://www.tvmaze.com/shows/527/the-sopranos
+episode-044,person-294,character-159,Christopher Moltisanti,https://www.tvmaze.com/shows/527/the-sopranos
+episode-044,person-295,character-160,Silvio Dante,https://www.tvmaze.com/shows/527/the-sopranos
+episode-044,person-296,character-161,Paulie 'Walnuts' Gualtieri,https://www.tvmaze.com/shows/527/the-sopranos
+episode-045,person-292,character-157,Tony Soprano,https://www.tvmaze.com/shows/527/the-sopranos
+episode-045,person-293,character-158,Carmela Soprano,https://www.tvmaze.com/shows/527/the-sopranos
+episode-045,person-294,character-159,Christopher Moltisanti,https://www.tvmaze.com/shows/527/the-sopranos
+episode-045,person-295,character-160,Silvio Dante,https://www.tvmaze.com/shows/527/the-sopranos
+episode-045,person-296,character-161,Paulie 'Walnuts' Gualtieri,https://www.tvmaze.com/shows/527/the-sopranos
+episode-046,person-292,character-157,Tony Soprano,https://www.tvmaze.com/shows/527/the-sopranos
+episode-046,person-293,character-158,Carmela Soprano,https://www.tvmaze.com/shows/527/the-sopranos
+episode-046,person-294,character-159,Christopher Moltisanti,https://www.tvmaze.com/shows/527/the-sopranos
+episode-046,person-295,character-160,Silvio Dante,https://www.tvmaze.com/shows/527/the-sopranos
+episode-046,person-296,character-161,Paulie 'Walnuts' Gualtieri,https://www.tvmaze.com/shows/527/the-sopranos
+episode-047,person-292,character-157,Tony Soprano,https://www.tvmaze.com/shows/527/the-sopranos
+episode-047,person-293,character-158,Carmela Soprano,https://www.tvmaze.com/shows/527/the-sopranos
+episode-047,person-294,character-159,Christopher Moltisanti,https://www.tvmaze.com/shows/527/the-sopranos
+episode-047,person-295,character-160,Silvio Dante,https://www.tvmaze.com/shows/527/the-sopranos
+episode-047,person-296,character-161,Paulie 'Walnuts' Gualtieri,https://www.tvmaze.com/shows/527/the-sopranos
+episode-048,person-292,character-157,Tony Soprano,https://www.tvmaze.com/shows/527/the-sopranos
+episode-048,person-293,character-158,Carmela Soprano,https://www.tvmaze.com/shows/527/the-sopranos
+episode-048,person-294,character-159,Christopher Moltisanti,https://www.tvmaze.com/shows/527/the-sopranos
+episode-048,person-295,character-160,Silvio Dante,https://www.tvmaze.com/shows/527/the-sopranos
+episode-048,person-296,character-161,Paulie 'Walnuts' Gualtieri,https://www.tvmaze.com/shows/527/the-sopranos
+episode-049,person-312,character-162,Rachel Green,https://www.tvmaze.com/shows/431/friends
+episode-049,person-313,character-163,Monica Geller,https://www.tvmaze.com/shows/431/friends
+episode-049,person-314,character-164,Phoebe Buffay,https://www.tvmaze.com/shows/431/friends
+episode-049,person-315,character-165,Joey Tribbiani,https://www.tvmaze.com/shows/431/friends
+episode-049,person-316,character-166,Chandler Bing,https://www.tvmaze.com/shows/431/friends
+episode-050,person-312,character-162,Rachel Green,https://www.tvmaze.com/shows/431/friends
+episode-050,person-313,character-163,Monica Geller,https://www.tvmaze.com/shows/431/friends
+episode-050,person-314,character-164,Phoebe Buffay,https://www.tvmaze.com/shows/431/friends
+episode-050,person-315,character-165,Joey Tribbiani,https://www.tvmaze.com/shows/431/friends
+episode-050,person-316,character-166,Chandler Bing,https://www.tvmaze.com/shows/431/friends
+episode-051,person-312,character-162,Rachel Green,https://www.tvmaze.com/shows/431/friends
+episode-051,person-313,character-163,Monica Geller,https://www.tvmaze.com/shows/431/friends
+episode-051,person-314,character-164,Phoebe Buffay,https://www.tvmaze.com/shows/431/friends
+episode-051,person-315,character-165,Joey Tribbiani,https://www.tvmaze.com/shows/431/friends
+episode-051,person-316,character-166,Chandler Bing,https://www.tvmaze.com/shows/431/friends
+episode-052,person-312,character-162,Rachel Green,https://www.tvmaze.com/shows/431/friends
+episode-052,person-313,character-163,Monica Geller,https://www.tvmaze.com/shows/431/friends
+episode-052,person-314,character-164,Phoebe Buffay,https://www.tvmaze.com/shows/431/friends
+episode-052,person-315,character-165,Joey Tribbiani,https://www.tvmaze.com/shows/431/friends
+episode-052,person-316,character-166,Chandler Bing,https://www.tvmaze.com/shows/431/friends
+episode-053,person-312,character-162,Rachel Green,https://www.tvmaze.com/shows/431/friends
+episode-053,person-313,character-163,Monica Geller,https://www.tvmaze.com/shows/431/friends
+episode-053,person-314,character-164,Phoebe Buffay,https://www.tvmaze.com/shows/431/friends
+episode-053,person-315,character-165,Joey Tribbiani,https://www.tvmaze.com/shows/431/friends
+episode-053,person-316,character-166,Chandler Bing,https://www.tvmaze.com/shows/431/friends
+episode-054,person-312,character-162,Rachel Green,https://www.tvmaze.com/shows/431/friends
+episode-054,person-313,character-163,Monica Geller,https://www.tvmaze.com/shows/431/friends
+episode-054,person-314,character-164,Phoebe Buffay,https://www.tvmaze.com/shows/431/friends
+episode-054,person-315,character-165,Joey Tribbiani,https://www.tvmaze.com/shows/431/friends
+episode-054,person-316,character-166,Chandler Bing,https://www.tvmaze.com/shows/431/friends
+episode-055,person-312,character-162,Rachel Green,https://www.tvmaze.com/shows/431/friends
+episode-055,person-313,character-163,Monica Geller,https://www.tvmaze.com/shows/431/friends
+episode-055,person-314,character-164,Phoebe Buffay,https://www.tvmaze.com/shows/431/friends
+episode-055,person-315,character-165,Joey Tribbiani,https://www.tvmaze.com/shows/431/friends
+episode-055,person-316,character-166,Chandler Bing,https://www.tvmaze.com/shows/431/friends
+episode-056,person-312,character-162,Rachel Green,https://www.tvmaze.com/shows/431/friends
+episode-056,person-313,character-163,Monica Geller,https://www.tvmaze.com/shows/431/friends
+episode-056,person-314,character-164,Phoebe Buffay,https://www.tvmaze.com/shows/431/friends
+episode-056,person-315,character-165,Joey Tribbiani,https://www.tvmaze.com/shows/431/friends
+episode-056,person-316,character-166,Chandler Bing,https://www.tvmaze.com/shows/431/friends
+episode-057,person-312,character-162,Rachel Green,https://www.tvmaze.com/shows/431/friends
+episode-057,person-313,character-163,Monica Geller,https://www.tvmaze.com/shows/431/friends
+episode-057,person-314,character-164,Phoebe Buffay,https://www.tvmaze.com/shows/431/friends
+episode-057,person-315,character-165,Joey Tribbiani,https://www.tvmaze.com/shows/431/friends
+episode-057,person-316,character-166,Chandler Bing,https://www.tvmaze.com/shows/431/friends
+episode-058,person-312,character-162,Rachel Green,https://www.tvmaze.com/shows/431/friends
+episode-058,person-313,character-163,Monica Geller,https://www.tvmaze.com/shows/431/friends
+episode-058,person-314,character-164,Phoebe Buffay,https://www.tvmaze.com/shows/431/friends
+episode-058,person-315,character-165,Joey Tribbiani,https://www.tvmaze.com/shows/431/friends
+episode-058,person-316,character-166,Chandler Bing,https://www.tvmaze.com/shows/431/friends
+episode-059,person-312,character-162,Rachel Green,https://www.tvmaze.com/shows/431/friends
+episode-059,person-313,character-163,Monica Geller,https://www.tvmaze.com/shows/431/friends
+episode-059,person-314,character-164,Phoebe Buffay,https://www.tvmaze.com/shows/431/friends
+episode-059,person-315,character-165,Joey Tribbiani,https://www.tvmaze.com/shows/431/friends
+episode-059,person-316,character-166,Chandler Bing,https://www.tvmaze.com/shows/431/friends
+episode-060,person-312,character-162,Rachel Green,https://www.tvmaze.com/shows/431/friends
+episode-060,person-313,character-163,Monica Geller,https://www.tvmaze.com/shows/431/friends
+episode-060,person-314,character-164,Phoebe Buffay,https://www.tvmaze.com/shows/431/friends
+episode-060,person-315,character-165,Joey Tribbiani,https://www.tvmaze.com/shows/431/friends
+episode-060,person-316,character-166,Chandler Bing,https://www.tvmaze.com/shows/431/friends
+episode-061,person-333,character-167,Dwight Kurt Schrute,https://www.tvmaze.com/shows/526/the-office
+episode-061,person-334,character-168,Jim Halpert,https://www.tvmaze.com/shows/526/the-office
+episode-061,person-335,character-169,Stanley Hudson,https://www.tvmaze.com/shows/526/the-office
+episode-061,person-336,character-170,Phyllis Lapin-Vance,https://www.tvmaze.com/shows/526/the-office
+episode-061,person-337,character-171,Pam Beesly,https://www.tvmaze.com/shows/526/the-office
+episode-062,person-333,character-167,Dwight Kurt Schrute,https://www.tvmaze.com/shows/526/the-office
+episode-062,person-334,character-168,Jim Halpert,https://www.tvmaze.com/shows/526/the-office
+episode-062,person-335,character-169,Stanley Hudson,https://www.tvmaze.com/shows/526/the-office
+episode-062,person-336,character-170,Phyllis Lapin-Vance,https://www.tvmaze.com/shows/526/the-office
+episode-062,person-337,character-171,Pam Beesly,https://www.tvmaze.com/shows/526/the-office
+episode-063,person-333,character-167,Dwight Kurt Schrute,https://www.tvmaze.com/shows/526/the-office
+episode-063,person-334,character-168,Jim Halpert,https://www.tvmaze.com/shows/526/the-office
+episode-063,person-335,character-169,Stanley Hudson,https://www.tvmaze.com/shows/526/the-office
+episode-063,person-336,character-170,Phyllis Lapin-Vance,https://www.tvmaze.com/shows/526/the-office
+episode-063,person-337,character-171,Pam Beesly,https://www.tvmaze.com/shows/526/the-office
+episode-064,person-333,character-167,Dwight Kurt Schrute,https://www.tvmaze.com/shows/526/the-office
+episode-064,person-334,character-168,Jim Halpert,https://www.tvmaze.com/shows/526/the-office
+episode-064,person-335,character-169,Stanley Hudson,https://www.tvmaze.com/shows/526/the-office
+episode-064,person-336,character-170,Phyllis Lapin-Vance,https://www.tvmaze.com/shows/526/the-office
+episode-064,person-337,character-171,Pam Beesly,https://www.tvmaze.com/shows/526/the-office
+episode-065,person-333,character-167,Dwight Kurt Schrute,https://www.tvmaze.com/shows/526/the-office
+episode-065,person-334,character-168,Jim Halpert,https://www.tvmaze.com/shows/526/the-office
+episode-065,person-335,character-169,Stanley Hudson,https://www.tvmaze.com/shows/526/the-office
+episode-065,person-336,character-170,Phyllis Lapin-Vance,https://www.tvmaze.com/shows/526/the-office
+episode-065,person-337,character-171,Pam Beesly,https://www.tvmaze.com/shows/526/the-office
+episode-066,person-333,character-167,Dwight Kurt Schrute,https://www.tvmaze.com/shows/526/the-office
+episode-066,person-334,character-168,Jim Halpert,https://www.tvmaze.com/shows/526/the-office
+episode-066,person-335,character-169,Stanley Hudson,https://www.tvmaze.com/shows/526/the-office
+episode-066,person-336,character-170,Phyllis Lapin-Vance,https://www.tvmaze.com/shows/526/the-office
+episode-066,person-337,character-171,Pam Beesly,https://www.tvmaze.com/shows/526/the-office
+episode-067,person-333,character-167,Dwight Kurt Schrute,https://www.tvmaze.com/shows/526/the-office
+episode-067,person-334,character-168,Jim Halpert,https://www.tvmaze.com/shows/526/the-office
+episode-067,person-335,character-169,Stanley Hudson,https://www.tvmaze.com/shows/526/the-office
+episode-067,person-336,character-170,Phyllis Lapin-Vance,https://www.tvmaze.com/shows/526/the-office
+episode-067,person-337,character-171,Pam Beesly,https://www.tvmaze.com/shows/526/the-office
+episode-068,person-333,character-167,Dwight Kurt Schrute,https://www.tvmaze.com/shows/526/the-office
+episode-068,person-334,character-168,Jim Halpert,https://www.tvmaze.com/shows/526/the-office
+episode-068,person-335,character-169,Stanley Hudson,https://www.tvmaze.com/shows/526/the-office
+episode-068,person-336,character-170,Phyllis Lapin-Vance,https://www.tvmaze.com/shows/526/the-office
+episode-068,person-337,character-171,Pam Beesly,https://www.tvmaze.com/shows/526/the-office
+episode-069,person-333,character-167,Dwight Kurt Schrute,https://www.tvmaze.com/shows/526/the-office
+episode-069,person-334,character-168,Jim Halpert,https://www.tvmaze.com/shows/526/the-office
+episode-069,person-335,character-169,Stanley Hudson,https://www.tvmaze.com/shows/526/the-office
+episode-069,person-336,character-170,Phyllis Lapin-Vance,https://www.tvmaze.com/shows/526/the-office
+episode-069,person-337,character-171,Pam Beesly,https://www.tvmaze.com/shows/526/the-office
+episode-070,person-333,character-167,Dwight Kurt Schrute,https://www.tvmaze.com/shows/526/the-office
+episode-070,person-334,character-168,Jim Halpert,https://www.tvmaze.com/shows/526/the-office
+episode-070,person-335,character-169,Stanley Hudson,https://www.tvmaze.com/shows/526/the-office
+episode-070,person-336,character-170,Phyllis Lapin-Vance,https://www.tvmaze.com/shows/526/the-office
+episode-070,person-337,character-171,Pam Beesly,https://www.tvmaze.com/shows/526/the-office
+episode-071,person-333,character-167,Dwight Kurt Schrute,https://www.tvmaze.com/shows/526/the-office
+episode-071,person-334,character-168,Jim Halpert,https://www.tvmaze.com/shows/526/the-office
+episode-071,person-335,character-169,Stanley Hudson,https://www.tvmaze.com/shows/526/the-office
+episode-071,person-336,character-170,Phyllis Lapin-Vance,https://www.tvmaze.com/shows/526/the-office
+episode-071,person-337,character-171,Pam Beesly,https://www.tvmaze.com/shows/526/the-office
+episode-072,person-333,character-167,Dwight Kurt Schrute,https://www.tvmaze.com/shows/526/the-office
+episode-072,person-334,character-168,Jim Halpert,https://www.tvmaze.com/shows/526/the-office
+episode-072,person-335,character-169,Stanley Hudson,https://www.tvmaze.com/shows/526/the-office
+episode-072,person-336,character-170,Phyllis Lapin-Vance,https://www.tvmaze.com/shows/526/the-office
+episode-072,person-337,character-171,Pam Beesly,https://www.tvmaze.com/shows/526/the-office
+episode-073,person-352,character-172,Joyce Byers,https://www.tvmaze.com/shows/2993/stranger-things
+episode-073,person-353,character-173,Lucas Sinclair,https://www.tvmaze.com/shows/2993/stranger-things
+episode-073,person-354,character-174,Mike Wheeler,https://www.tvmaze.com/shows/2993/stranger-things
+episode-073,person-355,character-175,Dustin Henderson,https://www.tvmaze.com/shows/2993/stranger-things
+episode-073,person-356,character-176,Nancy Wheeler,https://www.tvmaze.com/shows/2993/stranger-things
+episode-074,person-352,character-172,Joyce Byers,https://www.tvmaze.com/shows/2993/stranger-things
+episode-074,person-353,character-173,Lucas Sinclair,https://www.tvmaze.com/shows/2993/stranger-things
+episode-074,person-354,character-174,Mike Wheeler,https://www.tvmaze.com/shows/2993/stranger-things
+episode-074,person-355,character-175,Dustin Henderson,https://www.tvmaze.com/shows/2993/stranger-things
+episode-074,person-356,character-176,Nancy Wheeler,https://www.tvmaze.com/shows/2993/stranger-things
+episode-075,person-352,character-172,Joyce Byers,https://www.tvmaze.com/shows/2993/stranger-things
+episode-075,person-353,character-173,Lucas Sinclair,https://www.tvmaze.com/shows/2993/stranger-things
+episode-075,person-354,character-174,Mike Wheeler,https://www.tvmaze.com/shows/2993/stranger-things
+episode-075,person-355,character-175,Dustin Henderson,https://www.tvmaze.com/shows/2993/stranger-things
+episode-075,person-356,character-176,Nancy Wheeler,https://www.tvmaze.com/shows/2993/stranger-things
+episode-076,person-352,character-172,Joyce Byers,https://www.tvmaze.com/shows/2993/stranger-things
+episode-076,person-353,character-173,Lucas Sinclair,https://www.tvmaze.com/shows/2993/stranger-things
+episode-076,person-354,character-174,Mike Wheeler,https://www.tvmaze.com/shows/2993/stranger-things
+episode-076,person-355,character-175,Dustin Henderson,https://www.tvmaze.com/shows/2993/stranger-things
+episode-076,person-356,character-176,Nancy Wheeler,https://www.tvmaze.com/shows/2993/stranger-things
+episode-077,person-352,character-172,Joyce Byers,https://www.tvmaze.com/shows/2993/stranger-things
+episode-077,person-353,character-173,Lucas Sinclair,https://www.tvmaze.com/shows/2993/stranger-things
+episode-077,person-354,character-174,Mike Wheeler,https://www.tvmaze.com/shows/2993/stranger-things
+episode-077,person-355,character-175,Dustin Henderson,https://www.tvmaze.com/shows/2993/stranger-things
+episode-077,person-356,character-176,Nancy Wheeler,https://www.tvmaze.com/shows/2993/stranger-things
+episode-078,person-352,character-172,Joyce Byers,https://www.tvmaze.com/shows/2993/stranger-things
+episode-078,person-353,character-173,Lucas Sinclair,https://www.tvmaze.com/shows/2993/stranger-things
+episode-078,person-354,character-174,Mike Wheeler,https://www.tvmaze.com/shows/2993/stranger-things
+episode-078,person-355,character-175,Dustin Henderson,https://www.tvmaze.com/shows/2993/stranger-things
+episode-078,person-356,character-176,Nancy Wheeler,https://www.tvmaze.com/shows/2993/stranger-things
+episode-079,person-352,character-172,Joyce Byers,https://www.tvmaze.com/shows/2993/stranger-things
+episode-079,person-353,character-173,Lucas Sinclair,https://www.tvmaze.com/shows/2993/stranger-things
+episode-079,person-354,character-174,Mike Wheeler,https://www.tvmaze.com/shows/2993/stranger-things
+episode-079,person-355,character-175,Dustin Henderson,https://www.tvmaze.com/shows/2993/stranger-things
+episode-079,person-356,character-176,Nancy Wheeler,https://www.tvmaze.com/shows/2993/stranger-things
+episode-080,person-352,character-172,Joyce Byers,https://www.tvmaze.com/shows/2993/stranger-things
+episode-080,person-353,character-173,Lucas Sinclair,https://www.tvmaze.com/shows/2993/stranger-things
+episode-080,person-354,character-174,Mike Wheeler,https://www.tvmaze.com/shows/2993/stranger-things
+episode-080,person-355,character-175,Dustin Henderson,https://www.tvmaze.com/shows/2993/stranger-things
+episode-080,person-356,character-176,Nancy Wheeler,https://www.tvmaze.com/shows/2993/stranger-things
+episode-081,person-352,character-172,Joyce Byers,https://www.tvmaze.com/shows/2993/stranger-things
+episode-081,person-353,character-173,Lucas Sinclair,https://www.tvmaze.com/shows/2993/stranger-things
+episode-081,person-354,character-174,Mike Wheeler,https://www.tvmaze.com/shows/2993/stranger-things
+episode-081,person-355,character-175,Dustin Henderson,https://www.tvmaze.com/shows/2993/stranger-things
+episode-081,person-356,character-176,Nancy Wheeler,https://www.tvmaze.com/shows/2993/stranger-things
+episode-082,person-352,character-172,Joyce Byers,https://www.tvmaze.com/shows/2993/stranger-things
+episode-082,person-353,character-173,Lucas Sinclair,https://www.tvmaze.com/shows/2993/stranger-things
+episode-082,person-354,character-174,Mike Wheeler,https://www.tvmaze.com/shows/2993/stranger-things
+episode-082,person-355,character-175,Dustin Henderson,https://www.tvmaze.com/shows/2993/stranger-things
+episode-082,person-356,character-176,Nancy Wheeler,https://www.tvmaze.com/shows/2993/stranger-things
+episode-083,person-352,character-172,Joyce Byers,https://www.tvmaze.com/shows/2993/stranger-things
+episode-083,person-353,character-173,Lucas Sinclair,https://www.tvmaze.com/shows/2993/stranger-things
+episode-083,person-354,character-174,Mike Wheeler,https://www.tvmaze.com/shows/2993/stranger-things
+episode-083,person-355,character-175,Dustin Henderson,https://www.tvmaze.com/shows/2993/stranger-things
+episode-083,person-356,character-176,Nancy Wheeler,https://www.tvmaze.com/shows/2993/stranger-things
+episode-084,person-352,character-172,Joyce Byers,https://www.tvmaze.com/shows/2993/stranger-things
+episode-084,person-353,character-173,Lucas Sinclair,https://www.tvmaze.com/shows/2993/stranger-things
+episode-084,person-354,character-174,Mike Wheeler,https://www.tvmaze.com/shows/2993/stranger-things
+episode-084,person-355,character-175,Dustin Henderson,https://www.tvmaze.com/shows/2993/stranger-things
+episode-084,person-356,character-176,Nancy Wheeler,https://www.tvmaze.com/shows/2993/stranger-things
+episode-085,person-364,character-177,Queen Elizabeth II,https://www.tvmaze.com/shows/3594/the-crown
+episode-085,person-365,character-177,Queen Elizabeth II,https://www.tvmaze.com/shows/3594/the-crown
+episode-085,person-366,character-177,Queen Elizabeth II,https://www.tvmaze.com/shows/3594/the-crown
+episode-085,person-367,character-178,"Prince Philip, Duke of Edinburgh",https://www.tvmaze.com/shows/3594/the-crown
+episode-085,person-368,character-178,"Prince Philip, Duke of Edinburgh",https://www.tvmaze.com/shows/3594/the-crown
+episode-086,person-364,character-177,Queen Elizabeth II,https://www.tvmaze.com/shows/3594/the-crown
+episode-086,person-365,character-177,Queen Elizabeth II,https://www.tvmaze.com/shows/3594/the-crown
+episode-086,person-366,character-177,Queen Elizabeth II,https://www.tvmaze.com/shows/3594/the-crown
+episode-086,person-367,character-178,"Prince Philip, Duke of Edinburgh",https://www.tvmaze.com/shows/3594/the-crown
+episode-086,person-368,character-178,"Prince Philip, Duke of Edinburgh",https://www.tvmaze.com/shows/3594/the-crown
+episode-087,person-364,character-177,Queen Elizabeth II,https://www.tvmaze.com/shows/3594/the-crown
+episode-087,person-365,character-177,Queen Elizabeth II,https://www.tvmaze.com/shows/3594/the-crown
+episode-087,person-366,character-177,Queen Elizabeth II,https://www.tvmaze.com/shows/3594/the-crown
+episode-087,person-367,character-178,"Prince Philip, Duke of Edinburgh",https://www.tvmaze.com/shows/3594/the-crown
+episode-087,person-368,character-178,"Prince Philip, Duke of Edinburgh",https://www.tvmaze.com/shows/3594/the-crown
+episode-088,person-364,character-177,Queen Elizabeth II,https://www.tvmaze.com/shows/3594/the-crown
+episode-088,person-365,character-177,Queen Elizabeth II,https://www.tvmaze.com/shows/3594/the-crown
+episode-088,person-366,character-177,Queen Elizabeth II,https://www.tvmaze.com/shows/3594/the-crown
+episode-088,person-367,character-178,"Prince Philip, Duke of Edinburgh",https://www.tvmaze.com/shows/3594/the-crown
+episode-088,person-368,character-178,"Prince Philip, Duke of Edinburgh",https://www.tvmaze.com/shows/3594/the-crown
+episode-089,person-364,character-177,Queen Elizabeth II,https://www.tvmaze.com/shows/3594/the-crown
+episode-089,person-365,character-177,Queen Elizabeth II,https://www.tvmaze.com/shows/3594/the-crown
+episode-089,person-366,character-177,Queen Elizabeth II,https://www.tvmaze.com/shows/3594/the-crown
+episode-089,person-367,character-178,"Prince Philip, Duke of Edinburgh",https://www.tvmaze.com/shows/3594/the-crown
+episode-089,person-368,character-178,"Prince Philip, Duke of Edinburgh",https://www.tvmaze.com/shows/3594/the-crown
+episode-090,person-364,character-177,Queen Elizabeth II,https://www.tvmaze.com/shows/3594/the-crown
+episode-090,person-365,character-177,Queen Elizabeth II,https://www.tvmaze.com/shows/3594/the-crown
+episode-090,person-366,character-177,Queen Elizabeth II,https://www.tvmaze.com/shows/3594/the-crown
+episode-090,person-367,character-178,"Prince Philip, Duke of Edinburgh",https://www.tvmaze.com/shows/3594/the-crown
+episode-090,person-368,character-178,"Prince Philip, Duke of Edinburgh",https://www.tvmaze.com/shows/3594/the-crown
+episode-091,person-364,character-177,Queen Elizabeth II,https://www.tvmaze.com/shows/3594/the-crown
+episode-091,person-365,character-177,Queen Elizabeth II,https://www.tvmaze.com/shows/3594/the-crown
+episode-091,person-366,character-177,Queen Elizabeth II,https://www.tvmaze.com/shows/3594/the-crown
+episode-091,person-367,character-178,"Prince Philip, Duke of Edinburgh",https://www.tvmaze.com/shows/3594/the-crown
+episode-091,person-368,character-178,"Prince Philip, Duke of Edinburgh",https://www.tvmaze.com/shows/3594/the-crown
+episode-092,person-364,character-177,Queen Elizabeth II,https://www.tvmaze.com/shows/3594/the-crown
+episode-092,person-365,character-177,Queen Elizabeth II,https://www.tvmaze.com/shows/3594/the-crown
+episode-092,person-366,character-177,Queen Elizabeth II,https://www.tvmaze.com/shows/3594/the-crown
+episode-092,person-367,character-178,"Prince Philip, Duke of Edinburgh",https://www.tvmaze.com/shows/3594/the-crown
+episode-092,person-368,character-178,"Prince Philip, Duke of Edinburgh",https://www.tvmaze.com/shows/3594/the-crown
+episode-093,person-364,character-177,Queen Elizabeth II,https://www.tvmaze.com/shows/3594/the-crown
+episode-093,person-365,character-177,Queen Elizabeth II,https://www.tvmaze.com/shows/3594/the-crown
+episode-093,person-366,character-177,Queen Elizabeth II,https://www.tvmaze.com/shows/3594/the-crown
+episode-093,person-367,character-178,"Prince Philip, Duke of Edinburgh",https://www.tvmaze.com/shows/3594/the-crown
+episode-093,person-368,character-178,"Prince Philip, Duke of Edinburgh",https://www.tvmaze.com/shows/3594/the-crown
+episode-094,person-364,character-177,Queen Elizabeth II,https://www.tvmaze.com/shows/3594/the-crown
+episode-094,person-365,character-177,Queen Elizabeth II,https://www.tvmaze.com/shows/3594/the-crown
+episode-094,person-366,character-177,Queen Elizabeth II,https://www.tvmaze.com/shows/3594/the-crown
+episode-094,person-367,character-178,"Prince Philip, Duke of Edinburgh",https://www.tvmaze.com/shows/3594/the-crown
+episode-094,person-368,character-178,"Prince Philip, Duke of Edinburgh",https://www.tvmaze.com/shows/3594/the-crown
+episode-095,person-364,character-177,Queen Elizabeth II,https://www.tvmaze.com/shows/3594/the-crown
+episode-095,person-365,character-177,Queen Elizabeth II,https://www.tvmaze.com/shows/3594/the-crown
+episode-095,person-366,character-177,Queen Elizabeth II,https://www.tvmaze.com/shows/3594/the-crown
+episode-095,person-367,character-178,"Prince Philip, Duke of Edinburgh",https://www.tvmaze.com/shows/3594/the-crown
+episode-095,person-368,character-178,"Prince Philip, Duke of Edinburgh",https://www.tvmaze.com/shows/3594/the-crown
+episode-096,person-364,character-177,Queen Elizabeth II,https://www.tvmaze.com/shows/3594/the-crown
+episode-096,person-365,character-177,Queen Elizabeth II,https://www.tvmaze.com/shows/3594/the-crown
+episode-096,person-366,character-177,Queen Elizabeth II,https://www.tvmaze.com/shows/3594/the-crown
+episode-096,person-367,character-178,"Prince Philip, Duke of Edinburgh",https://www.tvmaze.com/shows/3594/the-crown
+episode-096,person-368,character-178,"Prince Philip, Duke of Edinburgh",https://www.tvmaze.com/shows/3594/the-crown
+episode-097,person-374,character-179,Jimmy McGill,https://www.tvmaze.com/shows/618/better-call-saul
+episode-097,person-375,character-180,"Michael ""Mike"" Ehrmantraut",https://www.tvmaze.com/shows/618/better-call-saul
+episode-097,person-376,character-181,Kim Wexler,https://www.tvmaze.com/shows/618/better-call-saul
+episode-097,person-377,character-182,Howard Hamlin,https://www.tvmaze.com/shows/618/better-call-saul
+episode-097,person-378,character-183,"Ignacio ""Nacho"" Varga",https://www.tvmaze.com/shows/618/better-call-saul
+episode-098,person-374,character-179,Jimmy McGill,https://www.tvmaze.com/shows/618/better-call-saul
+episode-098,person-375,character-180,"Michael ""Mike"" Ehrmantraut",https://www.tvmaze.com/shows/618/better-call-saul
+episode-098,person-376,character-181,Kim Wexler,https://www.tvmaze.com/shows/618/better-call-saul
+episode-098,person-377,character-182,Howard Hamlin,https://www.tvmaze.com/shows/618/better-call-saul
+episode-098,person-378,character-183,"Ignacio ""Nacho"" Varga",https://www.tvmaze.com/shows/618/better-call-saul
+episode-099,person-374,character-179,Jimmy McGill,https://www.tvmaze.com/shows/618/better-call-saul
+episode-099,person-375,character-180,"Michael ""Mike"" Ehrmantraut",https://www.tvmaze.com/shows/618/better-call-saul
+episode-099,person-376,character-181,Kim Wexler,https://www.tvmaze.com/shows/618/better-call-saul
+episode-099,person-377,character-182,Howard Hamlin,https://www.tvmaze.com/shows/618/better-call-saul
+episode-099,person-378,character-183,"Ignacio ""Nacho"" Varga",https://www.tvmaze.com/shows/618/better-call-saul
+episode-100,person-374,character-179,Jimmy McGill,https://www.tvmaze.com/shows/618/better-call-saul
+episode-100,person-375,character-180,"Michael ""Mike"" Ehrmantraut",https://www.tvmaze.com/shows/618/better-call-saul
+episode-100,person-376,character-181,Kim Wexler,https://www.tvmaze.com/shows/618/better-call-saul
+episode-100,person-377,character-182,Howard Hamlin,https://www.tvmaze.com/shows/618/better-call-saul
+episode-100,person-378,character-183,"Ignacio ""Nacho"" Varga",https://www.tvmaze.com/shows/618/better-call-saul
+episode-101,person-374,character-179,Jimmy McGill,https://www.tvmaze.com/shows/618/better-call-saul
+episode-101,person-375,character-180,"Michael ""Mike"" Ehrmantraut",https://www.tvmaze.com/shows/618/better-call-saul
+episode-101,person-376,character-181,Kim Wexler,https://www.tvmaze.com/shows/618/better-call-saul
+episode-101,person-377,character-182,Howard Hamlin,https://www.tvmaze.com/shows/618/better-call-saul
+episode-101,person-378,character-183,"Ignacio ""Nacho"" Varga",https://www.tvmaze.com/shows/618/better-call-saul
+episode-102,person-374,character-179,Jimmy McGill,https://www.tvmaze.com/shows/618/better-call-saul
+episode-102,person-375,character-180,"Michael ""Mike"" Ehrmantraut",https://www.tvmaze.com/shows/618/better-call-saul
+episode-102,person-376,character-181,Kim Wexler,https://www.tvmaze.com/shows/618/better-call-saul
+episode-102,person-377,character-182,Howard Hamlin,https://www.tvmaze.com/shows/618/better-call-saul
+episode-102,person-378,character-183,"Ignacio ""Nacho"" Varga",https://www.tvmaze.com/shows/618/better-call-saul
+episode-103,person-374,character-179,Jimmy McGill,https://www.tvmaze.com/shows/618/better-call-saul
+episode-103,person-375,character-180,"Michael ""Mike"" Ehrmantraut",https://www.tvmaze.com/shows/618/better-call-saul
+episode-103,person-376,character-181,Kim Wexler,https://www.tvmaze.com/shows/618/better-call-saul
+episode-103,person-377,character-182,Howard Hamlin,https://www.tvmaze.com/shows/618/better-call-saul
+episode-103,person-378,character-183,"Ignacio ""Nacho"" Varga",https://www.tvmaze.com/shows/618/better-call-saul
+episode-104,person-374,character-179,Jimmy McGill,https://www.tvmaze.com/shows/618/better-call-saul
+episode-104,person-375,character-180,"Michael ""Mike"" Ehrmantraut",https://www.tvmaze.com/shows/618/better-call-saul
+episode-104,person-376,character-181,Kim Wexler,https://www.tvmaze.com/shows/618/better-call-saul
+episode-104,person-377,character-182,Howard Hamlin,https://www.tvmaze.com/shows/618/better-call-saul
+episode-104,person-378,character-183,"Ignacio ""Nacho"" Varga",https://www.tvmaze.com/shows/618/better-call-saul
+episode-105,person-374,character-179,Jimmy McGill,https://www.tvmaze.com/shows/618/better-call-saul
+episode-105,person-375,character-180,"Michael ""Mike"" Ehrmantraut",https://www.tvmaze.com/shows/618/better-call-saul
+episode-105,person-376,character-181,Kim Wexler,https://www.tvmaze.com/shows/618/better-call-saul
+episode-105,person-377,character-182,Howard Hamlin,https://www.tvmaze.com/shows/618/better-call-saul
+episode-105,person-378,character-183,"Ignacio ""Nacho"" Varga",https://www.tvmaze.com/shows/618/better-call-saul
+episode-106,person-374,character-179,Jimmy McGill,https://www.tvmaze.com/shows/618/better-call-saul
+episode-106,person-375,character-180,"Michael ""Mike"" Ehrmantraut",https://www.tvmaze.com/shows/618/better-call-saul
+episode-106,person-376,character-181,Kim Wexler,https://www.tvmaze.com/shows/618/better-call-saul
+episode-106,person-377,character-182,Howard Hamlin,https://www.tvmaze.com/shows/618/better-call-saul
+episode-106,person-378,character-183,"Ignacio ""Nacho"" Varga",https://www.tvmaze.com/shows/618/better-call-saul
+episode-107,person-374,character-179,Jimmy McGill,https://www.tvmaze.com/shows/618/better-call-saul
+episode-107,person-375,character-180,"Michael ""Mike"" Ehrmantraut",https://www.tvmaze.com/shows/618/better-call-saul
+episode-107,person-376,character-181,Kim Wexler,https://www.tvmaze.com/shows/618/better-call-saul
+episode-107,person-377,character-182,Howard Hamlin,https://www.tvmaze.com/shows/618/better-call-saul
+episode-107,person-378,character-183,"Ignacio ""Nacho"" Varga",https://www.tvmaze.com/shows/618/better-call-saul
+episode-108,person-374,character-179,Jimmy McGill,https://www.tvmaze.com/shows/618/better-call-saul
+episode-108,person-375,character-180,"Michael ""Mike"" Ehrmantraut",https://www.tvmaze.com/shows/618/better-call-saul
+episode-108,person-376,character-181,Kim Wexler,https://www.tvmaze.com/shows/618/better-call-saul
+episode-108,person-377,character-182,Howard Hamlin,https://www.tvmaze.com/shows/618/better-call-saul
+episode-108,person-378,character-183,"Ignacio ""Nacho"" Varga",https://www.tvmaze.com/shows/618/better-call-saul
+episode-109,person-388,character-184,Dr. Jack Shephard,https://www.tvmaze.com/shows/123/lost
+episode-109,person-231,character-185,"Katherine ""Kate"" Austen",https://www.tvmaze.com/shows/123/lost
+episode-109,person-389,character-186,"Hugo ""Hurley"" Reyes",https://www.tvmaze.com/shows/123/lost
+episode-109,person-390,character-187,"James ""Sawyer"" Ford",https://www.tvmaze.com/shows/123/lost
+episode-109,person-391,character-188,John Locke,https://www.tvmaze.com/shows/123/lost
+episode-110,person-388,character-184,Dr. Jack Shephard,https://www.tvmaze.com/shows/123/lost
+episode-110,person-231,character-185,"Katherine ""Kate"" Austen",https://www.tvmaze.com/shows/123/lost
+episode-110,person-389,character-186,"Hugo ""Hurley"" Reyes",https://www.tvmaze.com/shows/123/lost
+episode-110,person-390,character-187,"James ""Sawyer"" Ford",https://www.tvmaze.com/shows/123/lost
+episode-110,person-391,character-188,John Locke,https://www.tvmaze.com/shows/123/lost
+episode-111,person-388,character-184,Dr. Jack Shephard,https://www.tvmaze.com/shows/123/lost
+episode-111,person-231,character-185,"Katherine ""Kate"" Austen",https://www.tvmaze.com/shows/123/lost
+episode-111,person-389,character-186,"Hugo ""Hurley"" Reyes",https://www.tvmaze.com/shows/123/lost
+episode-111,person-390,character-187,"James ""Sawyer"" Ford",https://www.tvmaze.com/shows/123/lost
+episode-111,person-391,character-188,John Locke,https://www.tvmaze.com/shows/123/lost
+episode-112,person-388,character-184,Dr. Jack Shephard,https://www.tvmaze.com/shows/123/lost
+episode-112,person-231,character-185,"Katherine ""Kate"" Austen",https://www.tvmaze.com/shows/123/lost
+episode-112,person-389,character-186,"Hugo ""Hurley"" Reyes",https://www.tvmaze.com/shows/123/lost
+episode-112,person-390,character-187,"James ""Sawyer"" Ford",https://www.tvmaze.com/shows/123/lost
+episode-112,person-391,character-188,John Locke,https://www.tvmaze.com/shows/123/lost
+episode-113,person-388,character-184,Dr. Jack Shephard,https://www.tvmaze.com/shows/123/lost
+episode-113,person-231,character-185,"Katherine ""Kate"" Austen",https://www.tvmaze.com/shows/123/lost
+episode-113,person-389,character-186,"Hugo ""Hurley"" Reyes",https://www.tvmaze.com/shows/123/lost
+episode-113,person-390,character-187,"James ""Sawyer"" Ford",https://www.tvmaze.com/shows/123/lost
+episode-113,person-391,character-188,John Locke,https://www.tvmaze.com/shows/123/lost
+episode-114,person-388,character-184,Dr. Jack Shephard,https://www.tvmaze.com/shows/123/lost
+episode-114,person-231,character-185,"Katherine ""Kate"" Austen",https://www.tvmaze.com/shows/123/lost
+episode-114,person-389,character-186,"Hugo ""Hurley"" Reyes",https://www.tvmaze.com/shows/123/lost
+episode-114,person-390,character-187,"James ""Sawyer"" Ford",https://www.tvmaze.com/shows/123/lost
+episode-114,person-391,character-188,John Locke,https://www.tvmaze.com/shows/123/lost
+episode-115,person-388,character-184,Dr. Jack Shephard,https://www.tvmaze.com/shows/123/lost
+episode-115,person-231,character-185,"Katherine ""Kate"" Austen",https://www.tvmaze.com/shows/123/lost
+episode-115,person-389,character-186,"Hugo ""Hurley"" Reyes",https://www.tvmaze.com/shows/123/lost
+episode-115,person-390,character-187,"James ""Sawyer"" Ford",https://www.tvmaze.com/shows/123/lost
+episode-115,person-391,character-188,John Locke,https://www.tvmaze.com/shows/123/lost
+episode-116,person-388,character-184,Dr. Jack Shephard,https://www.tvmaze.com/shows/123/lost
+episode-116,person-231,character-185,"Katherine ""Kate"" Austen",https://www.tvmaze.com/shows/123/lost
+episode-116,person-389,character-186,"Hugo ""Hurley"" Reyes",https://www.tvmaze.com/shows/123/lost
+episode-116,person-390,character-187,"James ""Sawyer"" Ford",https://www.tvmaze.com/shows/123/lost
+episode-116,person-391,character-188,John Locke,https://www.tvmaze.com/shows/123/lost
+episode-117,person-388,character-184,Dr. Jack Shephard,https://www.tvmaze.com/shows/123/lost
+episode-117,person-231,character-185,"Katherine ""Kate"" Austen",https://www.tvmaze.com/shows/123/lost
+episode-117,person-389,character-186,"Hugo ""Hurley"" Reyes",https://www.tvmaze.com/shows/123/lost
+episode-117,person-390,character-187,"James ""Sawyer"" Ford",https://www.tvmaze.com/shows/123/lost
+episode-117,person-391,character-188,John Locke,https://www.tvmaze.com/shows/123/lost
+episode-118,person-388,character-184,Dr. Jack Shephard,https://www.tvmaze.com/shows/123/lost
+episode-118,person-231,character-185,"Katherine ""Kate"" Austen",https://www.tvmaze.com/shows/123/lost
+episode-118,person-389,character-186,"Hugo ""Hurley"" Reyes",https://www.tvmaze.com/shows/123/lost
+episode-118,person-390,character-187,"James ""Sawyer"" Ford",https://www.tvmaze.com/shows/123/lost
+episode-118,person-391,character-188,John Locke,https://www.tvmaze.com/shows/123/lost
+episode-119,person-388,character-184,Dr. Jack Shephard,https://www.tvmaze.com/shows/123/lost
+episode-119,person-231,character-185,"Katherine ""Kate"" Austen",https://www.tvmaze.com/shows/123/lost
+episode-119,person-389,character-186,"Hugo ""Hurley"" Reyes",https://www.tvmaze.com/shows/123/lost
+episode-119,person-390,character-187,"James ""Sawyer"" Ford",https://www.tvmaze.com/shows/123/lost
+episode-119,person-391,character-188,John Locke,https://www.tvmaze.com/shows/123/lost
+episode-120,person-388,character-184,Dr. Jack Shephard,https://www.tvmaze.com/shows/123/lost
+episode-120,person-231,character-185,"Katherine ""Kate"" Austen",https://www.tvmaze.com/shows/123/lost
+episode-120,person-389,character-186,"Hugo ""Hurley"" Reyes",https://www.tvmaze.com/shows/123/lost
+episode-120,person-390,character-187,"James ""Sawyer"" Ford",https://www.tvmaze.com/shows/123/lost
+episode-120,person-391,character-188,John Locke,https://www.tvmaze.com/shows/123/lost

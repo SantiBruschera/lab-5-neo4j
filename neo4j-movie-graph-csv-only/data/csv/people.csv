@@ -1,0 +1,406 @@
+id,name,birthYear,primaryProfession,wikidataId,tvmazeId,sourceUrl
+person-001,Quentin Tarantino,1963,Director; Writer; Producer,Q3772,,https://www.wikidata.org/wiki/Q3772
+person-002,Steven Spielberg,1946,Director; Producer,Q8877,,https://www.wikidata.org/wiki/Q8877
+person-003,Christopher Nolan,1970,Director; Writer; Producer,Q25191,,https://www.wikidata.org/wiki/Q25191
+person-004,George Lucas,1944,Director; Writer; Producer,Q38222,,https://www.wikidata.org/wiki/Q38222
+person-005,Francis Ford Coppola,1939,Director; Writer,Q56094,,https://www.wikidata.org/wiki/Q56094
+person-006,Irvin Kershner,1923,Director,Q119348,,https://www.wikidata.org/wiki/Q119348
+person-007,David Fincher,1962,Director,Q184903,,https://www.wikidata.org/wiki/Q184903
+person-008,Robert Zemeckis,1952,Director; Writer,Q187364,,https://www.wikidata.org/wiki/Q187364
+person-009,Frank Darabont,1959,Director; Writer,Q295445,,https://www.wikidata.org/wiki/Q295445
+person-010,Lilly Wachowski,1967,Director,Q9544977,,https://www.wikidata.org/wiki/Q9544977
+person-011,Lana Wachowski,1965,Director,Q9545711,,https://www.wikidata.org/wiki/Q9545711
+person-012,Peter Jackson,1961,Director; Writer; Producer,Q4465,,https://www.wikidata.org/wiki/Q4465
+person-013,James Cameron,1954,Director; Writer; Producer,Q42574,,https://www.wikidata.org/wiki/Q42574
+person-014,Roger Allers,1949,Director,Q847468,,https://www.wikidata.org/wiki/Q847468
+person-015,Rob Minkoff,1962,Director,Q1151111,,https://www.wikidata.org/wiki/Q1151111
+person-016,John Lasseter,1957,Director; Writer,Q269214,,https://www.wikidata.org/wiki/Q269214
+person-017,Andrew Stanton,1965,Director; Writer,Q328723,,https://www.wikidata.org/wiki/Q328723
+person-018,Todd Phillips,1970,Director; Writer; Producer,Q362824,,https://www.wikidata.org/wiki/Q362824
+person-019,Lee Unkrich,1967,Director,Q380920,,https://www.wikidata.org/wiki/Q380920
+person-020,Bong Joon-ho,1969,Director; Writer; Producer,Q495980,,https://www.wikidata.org/wiki/Q495980
+person-021,David Leitch,1975,Director; Producer,Q5236475,,https://www.wikidata.org/wiki/Q5236475
+person-022,Anthony Russo,1970,Director,Q18018415,,https://www.wikidata.org/wiki/Q18018415
+person-023,Joe Russo,1971,Director,Q20675767,,https://www.wikidata.org/wiki/Q20675767
+person-024,Chad Stahelski,1968,Director,Q22277301,,https://www.wikidata.org/wiki/Q22277301
+person-025,Mario Puzo,1920,Writer,Q182870,,https://www.wikidata.org/wiki/Q182870
+person-026,the Wachowskis,,Writer,Q195719,,https://www.wikidata.org/wiki/Q195719
+person-027,Lawrence Kasdan,1949,Writer,Q240872,,https://www.wikidata.org/wiki/Q240872
+person-028,Chuck Palahniuk,1962,Writer,Q268181,,https://www.wikidata.org/wiki/Q268181
+person-029,Steven Zaillian,1953,Writer,Q291141,,https://www.wikidata.org/wiki/Q291141
+person-030,Leigh Brackett,1915,Writer,Q298242,,https://www.wikidata.org/wiki/Q298242
+person-031,Bob Kane,1915,Writer,Q313048,,https://www.wikidata.org/wiki/Q313048
+person-032,David S. Goyer,1965,Writer,Q352010,,https://www.wikidata.org/wiki/Q352010
+person-033,Jonathan Nolan,1976,Writer,Q372788,,https://www.wikidata.org/wiki/Q372788
+person-034,Roger Avary,1965,Writer,Q450720,,https://www.wikidata.org/wiki/Q450720
+person-035,Bill Finger,1914,Writer,Q464282,,https://www.wikidata.org/wiki/Q464282
+person-036,Winston Groom,1943,Writer,Q464700,,https://www.wikidata.org/wiki/Q464700
+person-037,Eric Roth,1945,Writer,Q942932,,https://www.wikidata.org/wiki/Q942932
+person-038,Jim Uhls,1957,Writer,Q3178961,,https://www.wikidata.org/wiki/Q3178961
+person-039,Robert Rodat,1953,Writer,Q49016,,https://www.wikidata.org/wiki/Q49016
+person-040,Philippa Boyens,1962,Writer,Q116854,,https://www.wikidata.org/wiki/Q116854
+person-041,Fran Walsh,1959,Writer; Producer,Q116861,,https://www.wikidata.org/wiki/Q116861
+person-042,Gale Anne Hurd,1955,Writer; Producer,Q269895,,https://www.wikidata.org/wiki/Q269895
+person-043,Andrew Kevin Walker,1964,Writer,Q505689,,https://www.wikidata.org/wiki/Q505689
+person-044,Bob Gale,1951,Writer; Producer,Q725773,,https://www.wikidata.org/wiki/Q725773
+person-045,William Wisher Jr.,1958,Writer,Q769868,,https://www.wikidata.org/wiki/Q769868
+person-046,Jonathan Roberts,1956,Writer,Q946215,,https://www.wikidata.org/wiki/Q946215
+person-047,Linda Woolverton,1952,Writer,Q1072923,,https://www.wikidata.org/wiki/Q1072923
+person-048,Stephen Sinclair,1956,Writer,Q3498652,,https://www.wikidata.org/wiki/Q3498652
+person-049,Irene Mecchi,1949,Writer,Q6069146,,https://www.wikidata.org/wiki/Q6069146
+person-050,Stan Lee,1922,Writer,Q181900,,https://www.wikidata.org/wiki/Q181900
+person-051,Joss Whedon,1964,Writer,Q298025,,https://www.wikidata.org/wiki/Q298025
+person-052,Jack Kirby,1917,Writer,Q311607,,https://www.wikidata.org/wiki/Q311607
+person-053,Pete Docter,1968,Writer,Q357627,,https://www.wikidata.org/wiki/Q357627
+person-054,Joe Ranft,1960,Writer,Q453094,,https://www.wikidata.org/wiki/Q453094
+person-055,Bob Peterson,1961,Writer,Q740682,,https://www.wikidata.org/wiki/Q740682
+person-056,Scott Silver,1964,Writer,Q1671377,,https://www.wikidata.org/wiki/Q1671377
+person-057,David Reynolds,1962,Writer,Q3018680,,https://www.wikidata.org/wiki/Q3018680
+person-058,Joel Cohen,1963,Writer,Q3397612,,https://www.wikidata.org/wiki/Q3397612
+person-059,Alec Sokolow,1963,Writer,Q3609030,,https://www.wikidata.org/wiki/Q3609030
+person-060,Christopher Markus,1973,Writer,Q5112818,,https://www.wikidata.org/wiki/Q5112818
+person-061,Stephen McFeely,1973,Writer,Q5933887,,https://www.wikidata.org/wiki/Q5933887
+person-062,Derek Kolstad,1974,Writer,Q30136697,,https://www.wikidata.org/wiki/Q30136697
+person-063,Han Jin-won,2000,Writer,Q81911860,,https://www.wikidata.org/wiki/Q81911860
+person-064,Kathleen Kennedy,1953,Producer,Q237207,,https://www.wikidata.org/wiki/Q237207
+person-065,Emma Thomas,1971,Producer,Q242951,,https://www.wikidata.org/wiki/Q242951
+person-066,Albert S. Ruddy,1930,Producer,Q280490,,https://www.wikidata.org/wiki/Q280490
+person-067,Wendy Finerman,1960,Producer,Q459177,,https://www.wikidata.org/wiki/Q459177
+person-068,Lawrence Bender,1957,Producer,Q514913,,https://www.wikidata.org/wiki/Q514913
+person-069,Joel Silver,1952,Producer,Q539718,,https://www.wikidata.org/wiki/Q539718
+person-070,Rick McCallum,1954,Producer,Q683785,,https://www.wikidata.org/wiki/Q683785
+person-071,Branko Lustig,1932,Producer,Q703611,,https://www.wikidata.org/wiki/Q703611
+person-072,Art Linson,1942,Producer,Q705631,,https://www.wikidata.org/wiki/Q705631
+person-073,Ceán Chaffin,1957,Producer,Q961183,,https://www.wikidata.org/wiki/Q961183
+person-074,Gerald R. Molen,1935,Producer,Q1385337,,https://www.wikidata.org/wiki/Q1385337
+person-075,Gary Kurtz,1940,Producer,Q1494912,,https://www.wikidata.org/wiki/Q1494912
+person-076,Steve Starkey,2000,Producer,Q2347318,,https://www.wikidata.org/wiki/Q2347318
+person-077,Charles Roven,1949,Producer,Q2740357,,https://www.wikidata.org/wiki/Q2740357
+person-078,Charles Newirth,1955,Producer,Q5081233,,https://www.wikidata.org/wiki/Q5081233
+person-079,Niki Marvin,2000,Producer,Q7034951,,https://www.wikidata.org/wiki/Q7034951
+person-080,Steve Tisch,1949,Producer,Q7482626,,https://www.wikidata.org/wiki/Q7482626
+person-081,Ian Bryce,1956,Producer,Q536964,,https://www.wikidata.org/wiki/Q536964
+person-082,Arnold Kopelson,1935,Producer,Q695608,,https://www.wikidata.org/wiki/Q695608
+person-083,Barrie M. Osborne,1944,Producer,Q808917,,https://www.wikidata.org/wiki/Q808917
+person-084,Don Hahn,1955,Producer,Q1072843,,https://www.wikidata.org/wiki/Q1072843
+person-085,Mario Kassar,1951,Producer,Q1385214,,https://www.wikidata.org/wiki/Q1385214
+person-086,Gary Levinsohn,1959,Producer,Q1494906,,https://www.wikidata.org/wiki/Q1494906
+person-087,Mark Gordon,1956,Producer,Q2417149,,https://www.wikidata.org/wiki/Q2417149
+person-088,Q6708571,1950,Producer,Q6708571,,https://www.wikidata.org/wiki/Q6708571
+person-089,Neil Canton,1948,Producer,Q6988354,,https://www.wikidata.org/wiki/Q6988354
+person-090,Tim Sanders,,Producer,Q22676727,,https://www.wikidata.org/wiki/Q22676727
+person-091,Edwin Catmull,1945,Producer,Q93161,,https://www.wikidata.org/wiki/Q93161
+person-092,Eva Longoria,1975,Producer,Q163263,,https://www.wikidata.org/wiki/Q163263
+person-093,Bradley Cooper,1975,Producer,Q205707,,https://www.wikidata.org/wiki/Q205707
+person-094,Kevin Feige,1973,Producer,Q515161,,https://www.wikidata.org/wiki/Q515161
+person-095,Bonnie Arnold,1955,Producer,Q1132913,,https://www.wikidata.org/wiki/Q1132913
+person-096,Stacey Sher,1962,Producer,Q2325642,,https://www.wikidata.org/wiki/Q2325642
+person-097,Reginald Hudlin,1961,Producer,Q3110579,,https://www.wikidata.org/wiki/Q3110579
+person-098,Ralph Guggenheim,1951,Producer,Q3418257,,https://www.wikidata.org/wiki/Q3418257
+person-099,Graham Walters,1976,Producer,Q5884128,,https://www.wikidata.org/wiki/Q5884128
+person-100,Pilar Savone,1971,Producer,Q6557253,,https://www.wikidata.org/wiki/Q6557253
+person-101,Emma Tillinger Koskoff,1972,Producer,Q15735681,,https://www.wikidata.org/wiki/Q15735681
+person-102,Basil Iwanyk,1970,Producer,Q52714247,,https://www.wikidata.org/wiki/Q52714247
+person-103,Kwak Sin-ae,1968,Producer,Q83945397,,https://www.wikidata.org/wiki/Q83945397
+person-104,Tim Robbins,1958,Actor,Q95048,,https://www.wikidata.org/wiki/Q95048
+person-105,Marlon Brando,1924,Actor,Q34012,,https://www.wikidata.org/wiki/Q34012
+person-106,Al Pacino,1940,Actor,Q41163,,https://www.wikidata.org/wiki/Q41163
+person-107,James Caan,1940,Actor,Q95043,,https://www.wikidata.org/wiki/Q95043
+person-108,Diane Keaton,1946,Actor,Q102642,,https://www.wikidata.org/wiki/Q102642
+person-109,Talia Shire,1946,Actor,Q108622,,https://www.wikidata.org/wiki/Q108622
+person-110,Robert Duvall,1931,Actor,Q171736,,https://www.wikidata.org/wiki/Q171736
+person-111,John Cazale,1935,Actor,Q296177,,https://www.wikidata.org/wiki/Q296177
+person-112,Abe Vigoda,1921,Actor,Q318220,,https://www.wikidata.org/wiki/Q318220
+person-113,Heath Ledger,1979,Actor,Q40572,,https://www.wikidata.org/wiki/Q40572
+person-114,Christian Bale,1974,Actor,Q45772,,https://www.wikidata.org/wiki/Q45772
+person-115,Morgan Freeman,1937,Actor,Q48337,,https://www.wikidata.org/wiki/Q48337
+person-116,Gary Oldman,1958,Actor,Q83492,,https://www.wikidata.org/wiki/Q83492
+person-117,Michael Caine,1933,Actor,Q123351,,https://www.wikidata.org/wiki/Q123351
+person-118,Aaron Eckhart,1968,Actor,Q192643,,https://www.wikidata.org/wiki/Q192643
+person-119,Maggie Gyllenhaal,1977,Actor,Q202381,,https://www.wikidata.org/wiki/Q202381
+person-120,Cillian Murphy,1976,Actor,Q202589,,https://www.wikidata.org/wiki/Q202589
+person-121,Dick Cavett,1936,Actor,Q375356,,https://www.wikidata.org/wiki/Q375356
+person-122,Michael Conner Humphreys,1985,Actor,Q1357803,,https://www.wikidata.org/wiki/Q1357803
+person-123,Sonny Shroyer,1935,Actor,Q2384946,,https://www.wikidata.org/wiki/Q2384946
+person-124,Joe Stefanelli,1960,Actor,Q6212499,,https://www.wikidata.org/wiki/Q6212499
+person-125,John William Galt,1940,Actor,Q26858814,,https://www.wikidata.org/wiki/Q26858814
+person-126,Tom Hanks,1956,Actor,Q2263,,https://www.wikidata.org/wiki/Q2263
+person-127,Hanna R. Hall,1984,Actor,Q14446,,https://www.wikidata.org/wiki/Q14446
+person-128,Brad Pitt,1963,Actor,Q35332,,https://www.wikidata.org/wiki/Q35332
+person-129,Edward Norton,1969,Actor,Q125904,,https://www.wikidata.org/wiki/Q125904
+person-130,Meat Loaf,1947,Actor,Q152929,,https://www.wikidata.org/wiki/Q152929
+person-131,Helena Bonham Carter,1966,Actor,Q170428,,https://www.wikidata.org/wiki/Q170428
+person-132,Jared Leto,1971,Actor,Q484523,,https://www.wikidata.org/wiki/Q484523
+person-133,Bruce Willis,1955,Actor,Q2680,,https://www.wikidata.org/wiki/Q2680
+person-134,John Travolta,1954,Actor,Q80938,,https://www.wikidata.org/wiki/Q80938
+person-135,Uma Thurman,1970,Actor,Q125017,,https://www.wikidata.org/wiki/Q125017
+person-136,Samuel L. Jackson,1948,Actor,Q172678,,https://www.wikidata.org/wiki/Q172678
+person-137,Harvey Keitel,1939,Actor,Q191132,,https://www.wikidata.org/wiki/Q191132
+person-138,Ving Rhames,1959,Actor,Q310315,,https://www.wikidata.org/wiki/Q310315
+person-139,Ralph Fiennes,1962,Actor,Q28493,,https://www.wikidata.org/wiki/Q28493
+person-140,Liam Neeson,1952,Actor,Q58444,,https://www.wikidata.org/wiki/Q58444
+person-141,Ben Kingsley,1943,Actor,Q173158,,https://www.wikidata.org/wiki/Q173158
+person-142,Caroline Goodall,1959,Actor,Q201976,,https://www.wikidata.org/wiki/Q201976
+person-143,Embeth Davidtz,1965,Actor,Q260622,,https://www.wikidata.org/wiki/Q260622
+person-144,Elina Löwensohn,1966,Actor,Q450694,,https://www.wikidata.org/wiki/Q450694
+person-145,Andrzej Seweryn,1946,Actor,Q515592,,https://www.wikidata.org/wiki/Q515592
+person-146,Jonathan Sagall,1959,Actor,Q1356584,,https://www.wikidata.org/wiki/Q1356584
+person-147,Marcus Chong,1967,Actor,Q1236595,,https://www.wikidata.org/wiki/Q1236595
+person-148,Matt Doran,1976,Actor,Q2424724,,https://www.wikidata.org/wiki/Q2424724
+person-149,Hugo Weaving,1960,Actor,Q42204,,https://www.wikidata.org/wiki/Q42204
+person-150,Keanu Reeves,1964,Actor,Q43416,,https://www.wikidata.org/wiki/Q43416
+person-151,Laurence Fishburne,1961,Actor,Q193048,,https://www.wikidata.org/wiki/Q193048
+person-152,Carrie-Anne Moss,1967,Actor,Q206890,,https://www.wikidata.org/wiki/Q206890
+person-153,Joe Pantoliano,1951,Actor,Q296883,,https://www.wikidata.org/wiki/Q296883
+person-154,Gloria Foster,1933,Actor,Q455234,,https://www.wikidata.org/wiki/Q455234
+person-155,Harrison Ford,1942,Actor,Q81328,,https://www.wikidata.org/wiki/Q81328
+person-156,Alec Guinness,1914,Actor,Q103894,,https://www.wikidata.org/wiki/Q103894
+person-157,Carrie Fisher,1956,Actor,Q108941,,https://www.wikidata.org/wiki/Q108941
+person-158,David Prowse,1935,Actor,Q128379,,https://www.wikidata.org/wiki/Q128379
+person-159,Mark Hamill,1951,Actor,Q210447,,https://www.wikidata.org/wiki/Q210447
+person-160,Frank Oz,1944,Actor,Q311319,,https://www.wikidata.org/wiki/Q311319
+person-161,Ian McDiarmid,1944,Actor,Q315495,,https://www.wikidata.org/wiki/Q315495
+person-162,Billy Dee Williams,1937,Actor,Q358345,,https://www.wikidata.org/wiki/Q358345
+person-163,James Earl Jones,1931,Actor,Q203960,,https://www.wikidata.org/wiki/Q203960
+person-164,Peter Cushing,1913,Actor,Q309589,,https://www.wikidata.org/wiki/Q309589
+person-165,Phil Brown,1916,Actor,Q325398,,https://www.wikidata.org/wiki/Q325398
+person-166,John Rhys-Davies,1944,Actor,Q16455,,https://www.wikidata.org/wiki/Q16455
+person-167,Orlando Bloom,1977,Actor,Q44467,,https://www.wikidata.org/wiki/Q44467
+person-168,Cate Blanchett,1969,Actor,Q80966,,https://www.wikidata.org/wiki/Q80966
+person-169,Dominic Monaghan,1976,Actor,Q152165,,https://www.wikidata.org/wiki/Q152165
+person-170,Liv Tyler,1977,Actor,Q168763,,https://www.wikidata.org/wiki/Q168763
+person-171,Ian McKellen,1939,Actor,Q170510,,https://www.wikidata.org/wiki/Q170510
+person-172,Viggo Mortensen,1958,Actor,Q171363,,https://www.wikidata.org/wiki/Q171363
+person-173,Karl Urban,1972,Actor,Q132430,,https://www.wikidata.org/wiki/Q132430
+person-174,Christopher Lee,1922,Actor,Q180338,,https://www.wikidata.org/wiki/Q180338
+person-175,Sean Astin,1971,Actor,Q189351,,https://www.wikidata.org/wiki/Q189351
+person-176,Marion Cotillard,1975,Actor,Q8927,,https://www.wikidata.org/wiki/Q8927
+person-177,Leonardo DiCaprio,1974,Actor,Q38111,,https://www.wikidata.org/wiki/Q38111
+person-178,Elliot Page,1987,Actor,Q173399,,https://www.wikidata.org/wiki/Q173399
+person-179,Joseph Gordon-Levitt,1981,Actor,Q177311,,https://www.wikidata.org/wiki/Q177311
+person-180,Tom Hardy,1977,Actor,Q208026,,https://www.wikidata.org/wiki/Q208026
+person-181,Ken Watanabe,1959,Actor,Q211553,,https://www.wikidata.org/wiki/Q211553
+person-182,Talulah Riley,1985,Actor,Q269309,,https://www.wikidata.org/wiki/Q269309
+person-183,Anne Hathaway,1982,Actor,Q36301,,https://www.wikidata.org/wiki/Q36301
+person-184,Mackenzie Foy,2000,Actor,Q94913,,https://www.wikidata.org/wiki/Q94913
+person-185,Josh Stewart,1977,Actor,Q117415,,https://www.wikidata.org/wiki/Q117415
+person-186,Matt Damon,1970,Actor,Q175535,,https://www.wikidata.org/wiki/Q175535
+person-187,Matthew McConaughey,1969,Actor,Q188955,,https://www.wikidata.org/wiki/Q188955
+person-188,Ellen Burstyn,1932,Actor,Q211144,,https://www.wikidata.org/wiki/Q211144
+person-189,Jessica Chastain,1977,Actor,Q229313,,https://www.wikidata.org/wiki/Q229313
+person-190,Kevin Spacey,1959,Actor,Q25144,,https://www.wikidata.org/wiki/Q25144
+person-191,Gwyneth Paltrow,1972,Actor,Q34460,,https://www.wikidata.org/wiki/Q34460
+person-192,Harve Presnell,1933,Actor,Q1395333,,https://www.wikidata.org/wiki/Q1395333
+person-193,Claudia Wells,1966,Actor,Q51125,,https://www.wikidata.org/wiki/Q51125
+person-194,Christopher Lloyd,1938,Actor,Q109324,,https://www.wikidata.org/wiki/Q109324
+person-195,Lea Thompson,1961,Actor,Q230605,,https://www.wikidata.org/wiki/Q230605
+person-196,Crispin Glover,1964,Actor,Q310060,,https://www.wikidata.org/wiki/Q310060
+person-197,Thomas F. Wilson,1959,Actor,Q360663,,https://www.wikidata.org/wiki/Q360663
+person-198,Michael J. Fox,1961,Actor,Q395274,,https://www.wikidata.org/wiki/Q395274
+person-199,Arnold Schwarzenegger,1947,Actor,Q2685,,https://www.wikidata.org/wiki/Q2685
+person-200,Linda Hamilton,1956,Actor,Q208214,,https://www.wikidata.org/wiki/Q208214
+person-201,Michael Biehn,1956,Actor,Q241510,,https://www.wikidata.org/wiki/Q241510
+person-202,Robert Patrick,1958,Actor,Q272977,,https://www.wikidata.org/wiki/Q272977
+person-203,Edward Furlong,1977,Actor,Q309631,,https://www.wikidata.org/wiki/Q309631
+person-204,Earl Boen,1941,Actor,Q452763,,https://www.wikidata.org/wiki/Q452763
+person-205,Joe Morton,1947,Actor,Q459007,,https://www.wikidata.org/wiki/Q459007
+person-206,Michael Edwards,1944,Actor,Q3308176,,https://www.wikidata.org/wiki/Q3308176
+person-207,David Carradine,1936,Actor,Q187038,,https://www.wikidata.org/wiki/Q187038
+person-208,Lucy Liu,1968,Actor,Q188375,,https://www.wikidata.org/wiki/Q188375
+person-209,Daryl Hannah,1960,Actor,Q207596,,https://www.wikidata.org/wiki/Q207596
+person-210,Vivica A. Fox,1964,Actor,Q220396,,https://www.wikidata.org/wiki/Q220396
+person-211,Michael Madsen,1957,Actor,Q220584,,https://www.wikidata.org/wiki/Q220584
+person-212,Chiaki Kuriyama,1984,Actor,Q234094,,https://www.wikidata.org/wiki/Q234094
+person-213,Julie Dreyfus,1966,Actor,Q263178,,https://www.wikidata.org/wiki/Q263178
+person-214,Martin Wuttke,1962,Actor,Q65922,,https://www.wikidata.org/wiki/Q65922
+person-215,Sylvester Groth,1958,Actor,Q76187,,https://www.wikidata.org/wiki/Q76187
+person-216,Christoph Waltz,1956,Actor,Q76819,,https://www.wikidata.org/wiki/Q76819
+person-217,Rod Taylor,1930,Actor,Q308459,,https://www.wikidata.org/wiki/Q308459
+person-218,Kerry Washington,1977,Actor,Q232104,,https://www.wikidata.org/wiki/Q232104
+person-219,Franco Nero,1941,Actor,Q311716,,https://www.wikidata.org/wiki/Q311716
+person-220,Dana Gourrier,2000,Actor,Q23010323,,https://www.wikidata.org/wiki/Q23010323
+person-221,Jamie Foxx,1967,Actor,Q171905,,https://www.wikidata.org/wiki/Q171905
+person-222,Don Johnson,1949,Actor,Q309788,,https://www.wikidata.org/wiki/Q309788
+person-223,Walton Goggins,1971,Actor,Q516690,,https://www.wikidata.org/wiki/Q516690
+person-224,Scarlett Johansson,1984,Actor,Q34436,,https://www.wikidata.org/wiki/Q34436
+person-225,Josh Brolin,1968,Actor,Q41396,,https://www.wikidata.org/wiki/Q41396
+person-226,Mark Ruffalo,1967,Actor,Q41422,,https://www.wikidata.org/wiki/Q41422
+person-227,Chris Hemsworth,1983,Actor,Q54314,,https://www.wikidata.org/wiki/Q54314
+person-228,William Hurt,1950,Actor,Q105825,,https://www.wikidata.org/wiki/Q105825
+person-229,Robert Downey Jr.,1965,Actor,Q165219,,https://www.wikidata.org/wiki/Q165219
+person-230,Robert Redford,1936,Actor,Q59215,,https://www.wikidata.org/wiki/Q59215
+person-231,Evangeline Lilly,1979,Actor,Q160392,26407,https://www.wikidata.org/wiki/Q160392
+person-232,Robert De Niro,1943,Actor,Q36949,,https://www.wikidata.org/wiki/Q36949
+person-233,Brett Cullen,1956,Actor,Q176277,,https://www.wikidata.org/wiki/Q176277
+person-234,Joaquin Phoenix,1974,Actor,Q185140,,https://www.wikidata.org/wiki/Q185140
+person-235,Frances Conroy,1953,Actor,Q233882,,https://www.wikidata.org/wiki/Q233882
+person-236,Douglas Hodge,1960,Actor,Q5301604,,https://www.wikidata.org/wiki/Q5301604
+person-237,Hannah Gross,1990,Actor,Q17411184,,https://www.wikidata.org/wiki/Q17411184
+person-238,Dante Pereira-Olson,2010,Actor,Q64504577,,https://www.wikidata.org/wiki/Q64504577
+person-239,D.B. Weiss,1971,Creator; Writer; Director,,14097,https://www.tvmaze.com/people/14097/db-weiss
+person-240,David Benioff,1970,Creator; Writer; Director,,14098,https://www.tvmaze.com/people/14098/david-benioff
+person-241,Peter Dinklage,1969,Actor,,14072,https://www.tvmaze.com/people/14072/peter-dinklage
+person-242,Kit Harington,1986,Actor,,14075,https://www.tvmaze.com/people/14075/kit-harington
+person-243,Lena Headey,1973,Actor,,14076,https://www.tvmaze.com/people/14076/lena-headey
+person-244,Emilia Clarke,1986,Actor,,14079,https://www.tvmaze.com/people/14079/emilia-clarke
+person-245,Sophie Turner,1996,Actor,,14080,https://www.tvmaze.com/people/14080/sophie-turner
+person-246,Tim Van Patten,1959,Director,,14111,https://www.tvmaze.com/people/14111/tim-van-patten
+person-247,Brian Kirk,,Director,,14135,https://www.tvmaze.com/people/14135/brian-kirk
+person-248,Bryan Cogman,1979,Writer,,14146,https://www.tvmaze.com/people/14146/bryan-cogman
+person-249,Alan Taylor,,Director,,14186,https://www.tvmaze.com/people/14186/alan-taylor
+person-250,Alik Sakharov,1959,Director,,7582,https://www.tvmaze.com/people/7582/alik-sakharov
+person-251,David Petrarca,,Director,,7264,https://www.tvmaze.com/people/7264/david-petrarca
+person-252,Vanessa Taylor,,Writer,,14216,https://www.tvmaze.com/people/14216/vanessa-taylor
+person-253,Daniel Minahan,1962,Director,,1161,https://www.tvmaze.com/people/1161/daniel-minahan
+person-254,Alex Graves,1965,Director,,14412,https://www.tvmaze.com/people/14412/alex-graves
+person-255,Vince Gilligan,1967,Creator; Writer; Director,,31025,https://www.tvmaze.com/people/31025/vince-gilligan
+person-256,Bryan Cranston,1956,Actor; Director,,14245,https://www.tvmaze.com/people/14245/bryan-cranston
+person-257,Aaron Paul,1979,Actor,,12328,https://www.tvmaze.com/people/12328/aaron-paul
+person-258,Anna Gunn,1968,Actor,,11207,https://www.tvmaze.com/people/11207/anna-gunn
+person-259,RJ Mitte,1992,Actor,,31023,https://www.tvmaze.com/people/31023/rj-mitte
+person-260,Dean Norris,1963,Actor,,9,https://www.tvmaze.com/people/9/dean-norris
+person-261,Adam Bernstein,1960,Director,,6046,https://www.tvmaze.com/people/6046/adam-bernstein
+person-262,Jim McKay,,Director,,20057,https://www.tvmaze.com/people/20057/jim-mckay
+person-263,J Roberts,,Writer,,31081,https://www.tvmaze.com/people/31081/j-roberts
+person-264,Charles Haid,1943,Director,,1927,https://www.tvmaze.com/people/1927/charles-haid
+person-265,George Mastras,,Writer,,31064,https://www.tvmaze.com/people/31064/george-mastras
+person-266,Terry McDonough,,Director,,10917,https://www.tvmaze.com/people/10917/terry-mcdonough
+person-267,Peter Gould,,Writer; Creator,,31069,https://www.tvmaze.com/people/31069/peter-gould
+person-268,John Dahl,1956,Director,,393,https://www.tvmaze.com/people/393/john-dahl
+person-269,Sam Catlin,,Writer,,31088,https://www.tvmaze.com/people/31088/sam-catlin
+person-270,Michelle MacLaren,,Director,,10307,https://www.tvmaze.com/people/10307/michelle-maclaren
+person-271,Scott Winant,,Director,,6361,https://www.tvmaze.com/people/6361/scott-winant
+person-272,David Simon,1960,Creator; Story; Teleplay,,32743,https://www.tvmaze.com/people/32743/david-simon
+person-273,Lance Reddick,1962,Actor,,9696,https://www.tvmaze.com/people/9696/lance-reddick
+person-274,Sonja Sohn,1964,Actor,,20082,https://www.tvmaze.com/people/20082/sonja-sohn
+person-275,Dominic West,1969,Actor,,26965,https://www.tvmaze.com/people/26965/dominic-west
+person-276,Clarke Peters,1952,Actor,,694,https://www.tvmaze.com/people/694/clarke-peters
+person-277,Domenick Lombardozzi,1976,Actor,,19684,https://www.tvmaze.com/people/19684/domenick-lombardozzi
+person-278,Clark Johnson,1954,Director,,951,https://www.tvmaze.com/people/951/clark-johnson
+person-279,Ed Burns,1946,Story,,120035,https://www.tvmaze.com/people/120035/ed-burns
+person-280,Peter Medak,,Director,,18329,https://www.tvmaze.com/people/18329/peter-medak
+person-281,Clement Virgo,,Director,,32760,https://www.tvmaze.com/people/32760/clement-virgo
+person-282,Ed Bianchi,,Director,,15223,https://www.tvmaze.com/people/15223/ed-bianchi
+person-283,Elodie Keene,1949,Director,,5165,https://www.tvmaze.com/people/5165/elodie-keene
+person-284,Joy Lusco,,Story; Teleplay,,32777,https://www.tvmaze.com/people/32777/joy-lusco
+person-285,Steve Shill,,Director,,12581,https://www.tvmaze.com/people/12581/steve-shill
+person-286,Richard Price,1981,Story; Teleplay,,32831,https://www.tvmaze.com/people/32831/richard-price
+person-287,Rob Bailey,,Director,,1714,https://www.tvmaze.com/people/1714/rob-bailey
+person-288,Dennis Lehane,,Story; Teleplay,,19692,https://www.tvmaze.com/people/19692/dennis-lehane
+person-289,Ernest Dickerson,1951,Director,,3327,https://www.tvmaze.com/people/3327/ernest-dickerson
+person-290,George P. Pelecanos,,Story; Teleplay,,32780,https://www.tvmaze.com/people/32780/george-p-pelecanos
+person-291,David Chase,1945,Creator; Writer; Director,,48980,https://www.tvmaze.com/people/48980/david-chase
+person-292,James Gandolfini,1961,Actor,,48973,https://www.tvmaze.com/people/48973/james-gandolfini
+person-293,Edie Falco,1963,Actor,,28002,https://www.tvmaze.com/people/28002/edie-falco
+person-294,Michael Imperioli,1966,Actor,,14745,https://www.tvmaze.com/people/14745/michael-imperioli
+person-295,Steven Van Zandt,1950,Actor,,48975,https://www.tvmaze.com/people/48975/steven-van-zandt
+person-296,Tony Sirico,1942,Actor,,30930,https://www.tvmaze.com/people/30930/tony-sirico
+person-297,Daniel Attias,1951,Director,,935,https://www.tvmaze.com/people/935/daniel-attias
+person-298,Nick Gomez,,Director,,7369,https://www.tvmaze.com/people/7369/nick-gomez
+person-299,Mark Saraceni,,Writer,,44701,https://www.tvmaze.com/people/44701/mark-saraceni
+person-300,John Patterson,1940,Director,,21641,https://www.tvmaze.com/people/21641/john-patterson
+person-301,Jason Cahill,,Writer,,29344,https://www.tvmaze.com/people/29344/jason-cahill
+person-302,Allen Coulter,,Director,,11154,https://www.tvmaze.com/people/11154/allen-coulter
+person-303,Frank Renzulli,1958,Writer,,10388,https://www.tvmaze.com/people/10388/frank-renzulli
+person-304,Mitchell Burgess,,Writer,,17270,https://www.tvmaze.com/people/17270/mitchell-burgess
+person-305,Robin Green,,Writer,,17271,https://www.tvmaze.com/people/17271/robin-green
+person-306,Martin Bruestle,,Director,,208846,https://www.tvmaze.com/people/208846/martin-bruestle
+person-307,Lee Tamahori,1950,Director,,86048,https://www.tvmaze.com/people/86048/lee-tamahori
+person-308,Henry J. Bronchtein,,Director,,7130,https://www.tvmaze.com/people/7130/henry-j-bronchtein
+person-309,Todd A. Kessler,,Writer,,49842,https://www.tvmaze.com/people/49842/todd-a-kessler
+person-310,David Crane,1957,Creator; Writer,,27940,https://www.tvmaze.com/people/27940/david-crane
+person-311,Marta Kauffman,1956,Creator; Writer,,45516,https://www.tvmaze.com/people/45516/marta-kauffman
+person-312,Jennifer Aniston,1969,Actor,,24483,https://www.tvmaze.com/people/24483/jennifer-aniston
+person-313,Courteney Cox,1964,Actor,,36167,https://www.tvmaze.com/people/36167/courteney-cox
+person-314,Lisa Kudrow,1963,Actor,,17185,https://www.tvmaze.com/people/17185/lisa-kudrow
+person-315,Matt LeBlanc,1967,Actor,,27937,https://www.tvmaze.com/people/27937/matt-leblanc
+person-316,Matthew Perry,1969,Actor,,20532,https://www.tvmaze.com/people/20532/matthew-perry
+person-317,James Burrows,1940,Director,,26725,https://www.tvmaze.com/people/26725/james-burrows
+person-318,Jeff Astrof,,Writer,,41598,https://www.tvmaze.com/people/41598/jeff-astrof
+person-319,Mike Sikowitz,,Writer,,45527,https://www.tvmaze.com/people/45527/mike-sikowitz
+person-320,Alexa Junge,,Writer,,45529,https://www.tvmaze.com/people/45529/alexa-junge
+person-321,Michael Lembeck,1948,Director,,14583,https://www.tvmaze.com/people/14583/michael-lembeck
+person-322,Ira Ungerleider,,Writer,,31647,https://www.tvmaze.com/people/31647/ira-ungerleider
+person-323,Adam Chase,,Writer,,44786,https://www.tvmaze.com/people/44786/adam-chase
+person-324,Greg Malins,1967,Writer,,26716,https://www.tvmaze.com/people/26716/greg-malins
+person-325,Michael Curtis,,Writer,,45520,https://www.tvmaze.com/people/45520/michael-curtis
+person-326,Kevin S. Bright,1954,Director,,45565,https://www.tvmaze.com/people/45565/kevin-s-bright
+person-327,Gail Mancuso,1958,Director,,11295,https://www.tvmaze.com/people/11295/gail-mancuso
+person-328,Wil Calhoun,,Writer,,43643,https://www.tvmaze.com/people/43643/wil-calhoun
+person-329,Steve Zuckerman,,Director,,36676,https://www.tvmaze.com/people/36676/steve-zuckerman
+person-330,Stephen Merchant,1974,Creator; Teleplay,,14544,https://www.tvmaze.com/people/14544/stephen-merchant
+person-331,Greg Daniels,1963,Creator; Teleplay; Director; Writer,,25010,https://www.tvmaze.com/people/25010/greg-daniels
+person-332,Ricky Gervais,1961,Creator; Teleplay,,40831,https://www.tvmaze.com/people/40831/ricky-gervais
+person-333,Rainn Wilson,1966,Actor,,19396,https://www.tvmaze.com/people/19396/rainn-wilson
+person-334,John Krasinski,1979,Actor,,22173,https://www.tvmaze.com/people/22173/john-krasinski
+person-335,Leslie David Baker,1958,Actor,,48970,https://www.tvmaze.com/people/48970/leslie-david-baker
+person-336,Phyllis Smith,1951,Actor,,39581,https://www.tvmaze.com/people/39581/phyllis-smith
+person-337,Jenna Fischer,1974,Actor,,48969,https://www.tvmaze.com/people/48969/jenna-fischer
+person-338,Ken Kwapis,,Director,,32014,https://www.tvmaze.com/people/32014/ken-kwapis
+person-339,B.J. Novak,1979,Writer,,11091,https://www.tvmaze.com/people/11091/bj-novak
+person-340,Ken Whittingham,,Director,,7073,https://www.tvmaze.com/people/7073/ken-whittingham
+person-341,Paul Lieberstein,1967,Writer,,25016,https://www.tvmaze.com/people/25016/paul-lieberstein
+person-342,Mike Schur,1975,Writer,,6939,https://www.tvmaze.com/people/6939/mike-schur
+person-343,Bryan Gordon,,Director,,29561,https://www.tvmaze.com/people/29561/bryan-gordon
+person-344,Mindy Kaling,1979,Writer,,11086,https://www.tvmaze.com/people/11086/mindy-kaling
+person-345,Paul Feig,1962,Director,,28038,https://www.tvmaze.com/people/28038/paul-feig
+person-346,Gene Stupnitsky,1977,Writer,,49431,https://www.tvmaze.com/people/49431/gene-stupnitsky
+person-347,Lee Eisenberg,,Writer,,49432,https://www.tvmaze.com/people/49432/lee-eisenberg
+person-348,Jennifer Celotta,1971,Writer,,49286,https://www.tvmaze.com/people/49286/jennifer-celotta
+person-349,Roger Nygard,,Director,,186525,https://www.tvmaze.com/people/186525/roger-nygard
+person-350,Ross Duffer,,Creator; Writer; Director,,66856,https://www.tvmaze.com/people/66856/ross-duffer
+person-351,Matt Duffer,,Creator; Writer; Director,,66857,https://www.tvmaze.com/people/66857/matt-duffer
+person-352,Winona Ryder,1971,Actor,,45771,https://www.tvmaze.com/people/45771/winona-ryder
+person-353,Caleb McLaughlin,2001,Actor,,15786,https://www.tvmaze.com/people/15786/caleb-mclaughlin
+person-354,Finn Wolfhard,2002,Actor,,49095,https://www.tvmaze.com/people/49095/finn-wolfhard
+person-355,Gaten Matarazzo,2002,Actor,,83372,https://www.tvmaze.com/people/83372/gaten-matarazzo
+person-356,Natalia Dyer,1995,Actor,,12740,https://www.tvmaze.com/people/12740/natalia-dyer
+person-357,Jessica Mecklenburg,,Writer,,6333,https://www.tvmaze.com/people/6333/jessica-mecklenburg
+person-358,Shawn Levy,1968,Director,,6417,https://www.tvmaze.com/people/6417/shawn-levy
+person-359,Justin Doble,,Writer,,30019,https://www.tvmaze.com/people/30019/justin-doble
+person-360,Paul Dichter,,Writer,,139394,https://www.tvmaze.com/people/139394/paul-dichter
+person-361,Will Bridges,,Writer,,149645,https://www.tvmaze.com/people/149645/will-bridges
+person-362,Kate Trefry,,Writer,,191954,https://www.tvmaze.com/people/191954/kate-trefry
+person-363,Peter Morgan,,Creator; Writer,,72276,https://www.tvmaze.com/people/72276/peter-morgan
+person-364,Claire Foy,1984,Actor,,49625,https://www.tvmaze.com/people/49625/claire-foy
+person-365,Olivia Colman,1974,Actor,,39042,https://www.tvmaze.com/people/39042/olivia-colman
+person-366,Imelda Staunton,1956,Actor,,52597,https://www.tvmaze.com/people/52597/imelda-staunton
+person-367,Matt Smith,1982,Actor,,34550,https://www.tvmaze.com/people/34550/matt-smith
+person-368,Tobias Menzies,1974,Actor,,6670,https://www.tvmaze.com/people/6670/tobias-menzies
+person-369,Stephen Daldry,1960,Director,,151386,https://www.tvmaze.com/people/151386/stephen-daldry
+person-370,Philip Martin,,Director,,82781,https://www.tvmaze.com/people/82781/philip-martin
+person-371,Julian Jarrold,1960,Director,,142586,https://www.tvmaze.com/people/142586/julian-jarrold
+person-372,Benjamin Caron,,Director,,151389,https://www.tvmaze.com/people/151389/benjamin-caron
+person-373,Amy Jenkins,,Writer,,297056,https://www.tvmaze.com/people/297056/amy-jenkins
+person-374,Bob Odenkirk,1962,Actor,,21268,https://www.tvmaze.com/people/21268/bob-odenkirk
+person-375,Jonathan Banks,1947,Actor,,12153,https://www.tvmaze.com/people/12153/jonathan-banks
+person-376,Rhea Seehorn,1972,Actor,,38290,https://www.tvmaze.com/people/38290/rhea-seehorn
+person-377,Patrick Fabian,1964,Actor,,5497,https://www.tvmaze.com/people/5497/patrick-fabian
+person-378,Michael Mando,1981,Actor,,2333,https://www.tvmaze.com/people/2333/michael-mando
+person-379,Thomas Schnauz,,Writer; Director,,6332,https://www.tvmaze.com/people/6332/thomas-schnauz
+person-380,Colin Bucksey,1946,Director,,1343,https://www.tvmaze.com/people/1343/colin-bucksey
+person-381,Gennifer Hutchison,,Writer,,4805,https://www.tvmaze.com/people/4805/gennifer-hutchison
+person-382,Jonathan Glatzer,,Writer,,76233,https://www.tvmaze.com/people/76233/jonathan-glatzer
+person-383,Gordon Smith,,Writer,,75246,https://www.tvmaze.com/people/75246/gordon-smith
+person-384,John Shiban,,Director,,3362,https://www.tvmaze.com/people/3362/john-shiban
+person-385,J.J. Abrams,1966,Creator; Director; Story; Teleplay,,98,https://www.tvmaze.com/people/98/jj-abrams
+person-386,Jeffrey Lieber,,Creator; Story,,6769,https://www.tvmaze.com/people/6769/jeffrey-lieber
+person-387,Damon Lindelof,1973,Creator; Story; Teleplay; Writer,,26414,https://www.tvmaze.com/people/26414/damon-lindelof
+person-388,Matthew Fox,1966,Actor,,26406,https://www.tvmaze.com/people/26406/matthew-fox
+person-389,Jorge Garcia,1973,Actor,,3233,https://www.tvmaze.com/people/3233/jorge-garcia
+person-390,Josh Holloway,1969,Actor,,8389,https://www.tvmaze.com/people/8389/josh-holloway
+person-391,Terry O'Quinn,1952,Actor,,5312,https://www.tvmaze.com/people/5312/terry-oquinn
+person-392,Jack Bender,1949,Director,,17,https://www.tvmaze.com/people/17/jack-bender
+person-393,David Fury,1959,Writer,,26425,https://www.tvmaze.com/people/26425/david-fury
+person-394,Steven Maeda,,Writer,,6250,https://www.tvmaze.com/people/6250/steven-maeda
+person-395,Leonard Dick,,Writer,,18132,https://www.tvmaze.com/people/18132/leonard-dick
+person-396,Stephen Williams,1978,Director,,22326,https://www.tvmaze.com/people/22326/stephen-williams
+person-397,Javier Grillo-Marxuach,1969,Writer,,6251,https://www.tvmaze.com/people/6251/javier-grillo-marxuach
+person-398,Craig Wright,,Writer,,26419,https://www.tvmaze.com/people/26419/craig-wright
+person-399,Edward Kitsis,1971,Writer,,2924,https://www.tvmaze.com/people/2924/edward-kitsis
+person-400,Adam Horowitz,1971,Writer,,2925,https://www.tvmaze.com/people/2925/adam-horowitz
+person-401,Paul A. Edwards,,Director,,55,https://www.tvmaze.com/people/55/paul-a-edwards
+person-402,Jeff Pinkner,,Writer,,26417,https://www.tvmaze.com/people/26417/jeff-pinkner
+person-403,Drew Goddard,,Writer,,26421,https://www.tvmaze.com/people/26421/drew-goddard
+person-404,Carlton Cuse,1959,Writer,,4744,https://www.tvmaze.com/people/4744/carlton-cuse
+person-405,Elizabeth Sarnoff,,Writer,,26415,https://www.tvmaze.com/people/26415/elizabeth-sarnoff

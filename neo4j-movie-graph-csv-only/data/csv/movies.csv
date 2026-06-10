@@ -1,0 +1,31 @@
+id,title,year,runtime,rating,ratingSource,description,wikidataId,imdbId,sourceUrl
+movie-001,Django Unchained,2012,165,8.0,Rotten Tomatoes,2012 film by Quentin Tarantino,Q571032,tt1853728,https://www.wikidata.org/wiki/Q571032
+movie-002,Interstellar,2014,169,7.1,Rotten Tomatoes,2014 film by Christopher Nolan,Q13417189,tt0816692,https://www.wikidata.org/wiki/Q13417189
+movie-003,John Wick,2014,101,6.9,Rotten Tomatoes,2014 film directed by Chad Stahelski and David Leitch,Q15732802,tt2911666,https://www.wikidata.org/wiki/Q15732802
+movie-004,Avengers: Infinity War,2018,149,8.5,Rotten Tomatoes,2018 film by Anthony Russo and Joe Russo,Q23780914,tt4154756,https://www.wikidata.org/wiki/Q23780914
+movie-005,Avengers: Endgame,2019,181,8.2,Rotten Tomatoes,2019 film by Anthony and Joe Russo,Q23781155,tt4154796,https://www.wikidata.org/wiki/Q23781155
+movie-006,Joker,2019,122,7.3,Rotten Tomatoes,2019 musical film directed by Todd Phillips,Q42759035,tt7286456,https://www.wikidata.org/wiki/Q42759035
+movie-007,Parasite,2019,132,9.4,Rotten Tomatoes,2019 film directed by Bong Joon-ho,Q61448040,tt6751668,https://www.wikidata.org/wiki/Q61448040
+movie-008,The Matrix,1999,136,7.8,Rotten Tomatoes,1999 American science fiction action thriller film,Q83495,tt0133093,https://www.wikidata.org/wiki/Q83495
+movie-009,Back to the Future,1985,115,8.8,Rotten Tomatoes,1985 film directed by Robert Zemeckis,Q91540,tt0088763,https://www.wikidata.org/wiki/Q91540
+movie-010,Pulp Fiction,1994,154,9.3,Rotten Tomatoes,1994 film by Quentin Tarantino,Q104123,tt0110912,https://www.wikidata.org/wiki/Q104123
+movie-011,The Lord of the Rings: The Fellowship of the Ring,2001,178,9.1,Rotten Tomatoes,2001 film by Peter Jackson,Q127367,tt0120737,https://www.wikidata.org/wiki/Q127367
+movie-012,The Lord of the Rings: The Return of the King,2003,200,8.7,Rotten Tomatoes,2003 film by Peter Jackson,Q131074,tt0167260,https://www.wikidata.org/wiki/Q131074
+movie-013,Finding Nemo,2003,100,8.7,Rotten Tomatoes,2003 animated film,Q132863,tt0266543,https://www.wikidata.org/wiki/Q132863
+movie-014,Q134773,1994,142,7.5,Rotten Tomatoes,1994 film directed by Robert Zemeckis,Q134773,tt0109830,https://www.wikidata.org/wiki/Q134773
+movie-015,Inglourious Basterds,2009,153,7.8,Rotten Tomatoes,2009 film directed by Quentin Tarantino,Q153723,tt0361748,https://www.wikidata.org/wiki/Q153723
+movie-016,The Dark Knight,2008,153,9.4,Rotten Tomatoes,2008 film directed by Christopher Nolan,Q163872,tt0468569,https://www.wikidata.org/wiki/Q163872
+movie-017,The Lord of the Rings: The Two Towers,2002,179,8.5,Rotten Tomatoes,2002 film by Peter Jackson,Q164963,tt0167261,https://www.wikidata.org/wiki/Q164963
+movie-018,Kill Bill: Volume 1,2003,111,8.5,Rotten Tomatoes,2003 film by Quentin Tarantino,Q165325,tt0266697,https://www.wikidata.org/wiki/Q165325
+movie-019,Saving Private Ryan,1998,169,8.7,Rotten Tomatoes,1998 film directed by Steven Spielberg,Q165817,tt0120815,https://www.wikidata.org/wiki/Q165817
+movie-020,Terminator 2: Judgment Day,1991,137,9.1,Rotten Tomatoes,1991 film directed by James Cameron,Q170564,tt0103064,https://www.wikidata.org/wiki/Q170564
+movie-021,Toy Story,1995,81,9.1,Rotten Tomatoes,1995 animated film directed by John Lasseter,Q171048,tt0114709,https://www.wikidata.org/wiki/Q171048
+movie-022,The Shawshank Redemption,1994,142,8.9,Rotten Tomatoes,1994 film directed by Frank Darabont,Q172241,tt0111161,https://www.wikidata.org/wiki/Q172241
+movie-023,Star Wars: Episode V – The Empire Strikes Back,1980,122,9.0,Rotten Tomatoes,1980 American epic space opera film directed by Irvin Kershner,Q181795,tt0080684,https://www.wikidata.org/wiki/Q181795
+movie-024,Fight Club,1999,139,7.4,Rotten Tomatoes,1999 film directed by David Fincher,Q190050,tt0137523,https://www.wikidata.org/wiki/Q190050
+movie-025,The Godfather,1972,175,9.7,Rotten Tomatoes,1972 film directed by Francis Ford Coppola,Q47703,tt0068646,https://www.wikidata.org/wiki/Q47703
+movie-026,Seven,1995,127,7.7,Rotten Tomatoes,1995 film by David Fincher,Q190908,tt0114369,https://www.wikidata.org/wiki/Q190908
+movie-027,Schindler's List,1993,195,9.2,Rotten Tomatoes,1993 film directed by Steven Spielberg,Q483941,tt0108052,https://www.wikidata.org/wiki/Q483941
+movie-028,Star Wars: Episode IV – A New Hope,1977,121,8.6,IMDb,1977 film directed by George Lucas,Q17738,tt0076759,https://www.wikidata.org/wiki/Q17738
+movie-029,Inception,2010,148,8.1,Rotten Tomatoes,2010 film directed by Christopher Nolan,Q25188,tt1375666,https://www.wikidata.org/wiki/Q25188
+movie-030,The Lion King,1994,88,8.5,Rotten Tomatoes,1994 animated film directed by Roger Allers and Rob Minkoff,Q36479,tt0110357,https://www.wikidata.org/wiki/Q36479

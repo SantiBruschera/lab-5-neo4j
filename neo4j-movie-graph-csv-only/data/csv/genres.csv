@@ -1,0 +1,87 @@
+id,name,wikidataId,sourceUrl
+genre-001,action film,Q188473,https://www.wikidata.org/wiki/Q188473
+genre-002,adventure film,Q319221,https://www.wikidata.org/wiki/Q319221
+genre-003,space opera,Q468478,https://www.wikidata.org/wiki/Q468478
+genre-004,science fiction film,Q471839,https://www.wikidata.org/wiki/Q471839
+genre-005,coming-of-age film,Q102429885,https://www.wikidata.org/wiki/Q102429885
+genre-006,drama film,Q130232,https://www.wikidata.org/wiki/Q130232
+genre-007,heist film,Q496523,https://www.wikidata.org/wiki/Q496523
+genre-008,mystery film,Q1200678,https://www.wikidata.org/wiki/Q1200678
+genre-009,thriller film,Q2484376,https://www.wikidata.org/wiki/Q2484376
+genre-010,science fiction action film,Q20656232,https://www.wikidata.org/wiki/Q20656232
+genre-011,musical film,Q842256,https://www.wikidata.org/wiki/Q842256
+genre-012,family film,Q1361932,https://www.wikidata.org/wiki/Q1361932
+genre-013,epic film,Q652256,https://www.wikidata.org/wiki/Q652256
+genre-014,crime film,Q959790,https://www.wikidata.org/wiki/Q959790
+genre-015,gangster film,Q7444356,https://www.wikidata.org/wiki/Q7444356
+genre-016,suspense film,Q11304653,https://www.wikidata.org/wiki/Q11304653
+genre-017,historical film,Q17013749,https://www.wikidata.org/wiki/Q17013749
+genre-018,crime thriller film,Q19367312,https://www.wikidata.org/wiki/Q19367312
+genre-019,police procedural film,Q109733630,https://www.wikidata.org/wiki/Q109733630
+genre-020,crime drama film,Q113485322,https://www.wikidata.org/wiki/Q113485322
+genre-021,historical drama film,Q116514801,https://www.wikidata.org/wiki/Q116514801
+genre-022,cyberpunk,Q174526,https://www.wikidata.org/wiki/Q174526
+genre-023,film noir,Q185867,https://www.wikidata.org/wiki/Q185867
+genre-024,post-apocalyptic film,Q1341051,https://www.wikidata.org/wiki/Q1341051
+genre-025,superhero film,Q1535153,https://www.wikidata.org/wiki/Q1535153
+genre-026,action thriller,Q3990883,https://www.wikidata.org/wiki/Q3990883
+genre-027,dystopian film,Q20443008,https://www.wikidata.org/wiki/Q20443008
+genre-028,comedy film,Q157443,https://www.wikidata.org/wiki/Q157443
+genre-029,teen film,Q1146335,https://www.wikidata.org/wiki/Q1146335
+genre-030,time-travel film,Q104765957,https://www.wikidata.org/wiki/Q104765957
+genre-031,independent film,Q459290,https://www.wikidata.org/wiki/Q459290
+genre-032,comedy drama,Q859369,https://www.wikidata.org/wiki/Q859369
+genre-033,crime comedy film,Q1788980,https://www.wikidata.org/wiki/Q1788980
+genre-034,neo-noir,Q2421031,https://www.wikidata.org/wiki/Q2421031
+genre-035,black comedy film,Q5778924,https://www.wikidata.org/wiki/Q5778924
+genre-036,fantasy film,Q157394,https://www.wikidata.org/wiki/Q157394
+genre-037,children's film,Q2143665,https://www.wikidata.org/wiki/Q2143665
+genre-038,tragicomedy,Q192881,https://www.wikidata.org/wiki/Q192881
+genre-039,historical drama,Q7168625,https://www.wikidata.org/wiki/Q7168625
+genre-040,flashback film,Q21401869,https://www.wikidata.org/wiki/Q21401869
+genre-041,American football film,Q111278985,https://www.wikidata.org/wiki/Q111278985
+genre-042,romantic comedy film,Q118612349,https://www.wikidata.org/wiki/Q118612349
+genre-043,war film,Q369747,https://www.wikidata.org/wiki/Q369747
+genre-044,period drama film,Q542475,https://www.wikidata.org/wiki/Q542475
+genre-045,parody film,Q622548,https://www.wikidata.org/wiki/Q622548
+genre-046,action comedy film,Q2678111,https://www.wikidata.org/wiki/Q2678111
+genre-047,political satire,Q7225114,https://www.wikidata.org/wiki/Q7225114
+genre-048,alternate history film,Q20656352,https://www.wikidata.org/wiki/Q20656352
+genre-049,war drama,Q116456802,https://www.wikidata.org/wiki/Q116456802
+genre-050,speculative fiction film,Q2973181,https://www.wikidata.org/wiki/Q2973181
+genre-051,psychological thriller film,Q109733304,https://www.wikidata.org/wiki/Q109733304
+genre-052,black comedy,Q53094,https://www.wikidata.org/wiki/Q53094
+genre-053,samurai cinema,Q169672,https://www.wikidata.org/wiki/Q169672
+genre-054,splatter film,Q909586,https://www.wikidata.org/wiki/Q909586
+genre-055,martial arts film,Q1033891,https://www.wikidata.org/wiki/Q1033891
+genre-056,girls with guns,Q1776156,https://www.wikidata.org/wiki/Q1776156
+genre-057,vigilante film,Q2642760,https://www.wikidata.org/wiki/Q2642760
+genre-058,wuxia film,Q15858553,https://www.wikidata.org/wiki/Q15858553
+genre-059,techno-thriller,Q580850,https://www.wikidata.org/wiki/Q580850
+genre-060,chase film,Q16538713,https://www.wikidata.org/wiki/Q16538713
+genre-061,buddy film,Q663106,https://www.wikidata.org/wiki/Q663106
+genre-062,prison film,Q586250,https://www.wikidata.org/wiki/Q586250
+genre-063,psychological thriller,Q590103,https://www.wikidata.org/wiki/Q590103
+genre-064,horror film,Q200092,https://www.wikidata.org/wiki/Q200092
+genre-065,buddy cop film,Q4984974,https://www.wikidata.org/wiki/Q4984974
+genre-066,detective film,Q25533274,https://www.wikidata.org/wiki/Q25533274
+genre-067,psychological drama film,Q63214877,https://www.wikidata.org/wiki/Q63214877
+genre-068,psychological horror film,Q109629396,https://www.wikidata.org/wiki/Q109629396
+genre-069,biographical film,Q645928,https://www.wikidata.org/wiki/Q645928
+genre-070,anti-war film,Q4774498,https://www.wikidata.org/wiki/Q4774498
+genre-071,Western film,Q172980,https://www.wikidata.org/wiki/Q172980
+genre-072,revisionist Western,Q491158,https://www.wikidata.org/wiki/Q491158
+genre-073,blaxploitation film,Q883179,https://www.wikidata.org/wiki/Q883179
+genre-074,hard science fiction,Q725757,https://www.wikidata.org/wiki/Q725757
+genre-075,Drama,,https://www.tvmaze.com/shows/82/game-of-thrones
+genre-076,Adventure,,https://www.tvmaze.com/shows/82/game-of-thrones
+genre-077,Fantasy,,https://www.tvmaze.com/shows/82/game-of-thrones
+genre-078,Crime,,https://www.tvmaze.com/shows/169/breaking-bad
+genre-079,Thriller,,https://www.tvmaze.com/shows/169/breaking-bad
+genre-080,Comedy,,https://www.tvmaze.com/shows/431/friends
+genre-081,Romance,,https://www.tvmaze.com/shows/431/friends
+genre-082,Horror,,https://www.tvmaze.com/shows/2993/stranger-things
+genre-083,Science-Fiction,,https://www.tvmaze.com/shows/2993/stranger-things
+genre-084,History,,https://www.tvmaze.com/shows/3594/the-crown
+genre-085,Legal,,https://www.tvmaze.com/shows/618/better-call-saul
+genre-086,Supernatural,,https://www.tvmaze.com/shows/123/lost

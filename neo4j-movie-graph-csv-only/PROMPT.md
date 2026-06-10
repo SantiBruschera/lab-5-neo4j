@@ -64,7 +64,7 @@ Decisiones de tipado: `toIntegerOrNull()` / `toFloatOrNull()` para campos numér
 | `PLAYED {role}` | movie_cast / episode_cast | `(Person)-[:PLAYED]->(Character)` |
 | `APPEARS_IN` | movie_cast / episode_cast | `(Character)-[:APPEARS_IN]->(Movie\|Episode)` |
 
-El triángulo `Person-PLAYED->Character-APPEARS_IN->(Movie|Episode)` + `Person-ACTED_IN->(Movie|Episode)` permite resolver casos de doble personaje en una misma película (3 casos detectados, ej. `person-121` interpreta "self" y "Dick Cavett" en la misma película) y personajes interpretados por más de un actor (9 casos, ej. "Murphy Cooper" interpretada por 3 actrices en distintas edades).
+El triángulo `Person-PLAYED->Character-APPEARS_IN->(Movie|Episode)` + `Person-ACTED_IN->(Movie|Episode)` permite resolver casos de doble personaje en una misma película y personajes interpretados por más de un actor .
 
 ## 4. Proceso de carga (ejecutado vía `docker exec -i <container> cypher-shell -u neo4j -p password123 < script.cypher`)
 

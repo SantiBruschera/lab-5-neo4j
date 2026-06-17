@@ -222,3 +222,95 @@ RETURN rec.title AS pelicula,
        (generosCompartidos * 2 + actoresCompartidos * 3 + directorCompartido * 5) AS puntaje
 ORDER BY puntaje DESC, pelicula
 LIMIT 10;
+
+// 31. Encontrar el actor mas central de la red de coestrellas, o sea el que acumulo mas coestrellas 
+// unicas a lo largo de todas sus peliculas.
+MATCH (a:Person)-[:ACTED_IN]->(m:Movie)<-[:ACTED_IN]-(co:Person)
+WHERE a.id <> co.id
+WITH a, collect(DISTINCT co.name) AS coestrellasUnicas
+RETURN a.name AS actor,
+       size(coestrellasUnicas) AS cantidadCoestrellasUnicas,
+       coestrellasUnicas
+ORDER BY cantidadCoestrellasUnicas DESC, actor
+LIMIT 1;
+
+// 32. Rankear companias productoras por rating promedio ponderado por cantidad de obras,
+// para que una compania con muchas obras buenas pese mas que una con una sola.
+MATCH (co:Company)<-[:PRODUCED_BY]-(work)
+WHERE (work:Movie OR work:Series)
+  AND work.rating IS NOT NULL
+WITH co,
+     count(DISTINCT work) AS cantidadObras,
+     avg(work.rating) AS ratingPromedio,
+     sum(work.rating) AS puntajePonderado
+RETURN co.name AS compania,
+       cantidadObras,
+       round(ratingPromedio, 2) AS ratingPromedio,
+       round(puntajePonderado, 2) AS puntajePonderado
+ORDER BY puntajePonderado DESC,
+         ratingPromedio DESC,
+         cantidadObras DESC,
+         compania
+LIMIT 15;
+
+// 33. Encontrar el director mas versatil segun la cantidad de generos distintos en los que dirigio peliculas.
+MATCH (d:Person)-[:DIRECTED]->(m:Movie)-[:HAS_GENRE]->(g:Genre)
+WITH d,
+     count(DISTINCT g) AS cantidadGeneros,
+     count(DISTINCT m) AS peliculasDirigidas,
+     collect(DISTINCT g.name) AS generosDirigidos
+RETURN d.name AS director,
+       cantidadGeneros,
+       peliculasDirigidas,
+       generosDirigidos
+ORDER BY cantidadGeneros DESC,
+         peliculasDirigidas DESC,
+         director
+LIMIT 1;
+
+// 34. Ver que generos dominaron cada decada analizando la cantidad de estrenos por genero agrupados en intervalos de 10 anios.
+MATCH (m:Movie)-[:HAS_GENRE]->(g:Genre)
+WHERE m.year IS NOT NULL
+WITH toInteger(floor(m.year / 10.0) * 10) AS decada,
+     g.name AS genero,
+     count(DISTINCT m) AS estrenos
+ORDER BY decada, estrenos DESC, genero
+WITH decada,
+     collect({genero: genero, estrenos: estrenos}) AS rankingGeneros
+UNWIND range(0, size(rankingGeneros) - 1) AS indice
+WITH decada,
+     indice + 1 AS posicion,
+     rankingGeneros[indice] AS item
+WHERE posicion <= 5
+RETURN toString(decada) + 's' AS decada,
+       posicion,
+       item.genero AS genero,
+       item.estrenos AS estrenos
+ORDER BY decada, posicion;
+
+// 35. Elegir manualmente dos actores que nunca trabajaron juntos directamente
+// y encontrar la cadena mas corta de colaboraciones que los conecta.
+// Cambiar actor1 y actor2 por los nombres deseados.
+WITH "Keanu Reeves" AS actor1, "Tom Hanks" AS actor2
+MATCH (a:Person {name: actor1})
+WITH a, actor1, actor2
+MATCH (b:Person {name: actor2})
+WHERE a.id <> b.id
+  AND NOT EXISTS {
+    MATCH (a)-[:ACTED_IN]->(obra)<-[:ACTED_IN]-(b)
+    WHERE obra:Movie OR obra:Episode
+  }
+MATCH path = shortestPath((a)-[:ACTED_IN*..20]-(b))
+WHERE all(n IN nodes(path) WHERE n:Person OR n:Movie OR n:Episode)
+RETURN actor1,
+       actor2,
+       [n IN nodes(path) |
+          CASE
+            WHEN n:Person THEN 'Actor: ' + n.name
+            WHEN n:Movie THEN 'Pelicula: ' + n.title
+            WHEN n:Episode THEN 'Episodio: ' + n.title
+          END
+       ] AS cadenaColaboraciones,
+       length(path) / 2 AS saltosEntreActores,
+       length(path) AS longitudGrafo;
+       

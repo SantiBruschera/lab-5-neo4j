@@ -223,16 +223,17 @@ RETURN rec.title AS pelicula,
 ORDER BY puntaje DESC, pelicula
 LIMIT 10;
 
-// 31. Encontrar el actor mas central de la red de coestrellas, o sea el que acumulo mas coestrellas 
-// unicas a lo largo de todas sus peliculas.
-MATCH (a:Person)-[:ACTED_IN]->(m:Movie)<-[:ACTED_IN]-(co:Person)
-WHERE a.id <> co.id
-WITH a, collect(DISTINCT co.name) AS coestrellasUnicas
-RETURN a.name AS actor,
-       size(coestrellasUnicas) AS cantidadCoestrellasUnicas,
-       coestrellasUnicas
-ORDER BY cantidadCoestrellasUnicas DESC, actor
-LIMIT 1;
+// 31. Encontrar la pelicula mas "hub": la que conecta indirectamente a mas peliculas distintas
+// a traves de actores compartidos, junto con cuantos actores sirven de puente.
+MATCH (m:Movie)<-[:ACTED_IN]-(p:Person)-[:ACTED_IN]->(other:Movie)
+WHERE m <> other
+WITH m,
+     count(DISTINCT other) AS peliculasConectadas,
+     count(DISTINCT p) AS actoresPuente,
+     collect(DISTINCT other.title) AS conexiones
+RETURN m.title AS pelicula, peliculasConectadas, actoresPuente, conexiones
+ORDER BY peliculasConectadas DESC, actoresPuente DESC
+LIMIT 10;
 
 // 32. Rankear companias productoras por rating promedio ponderado por cantidad de obras,
 // para que una compania con muchas obras buenas pese mas que una con una sola.
@@ -291,7 +292,7 @@ ORDER BY decada, posicion;
 // 35. Elegir manualmente dos actores que nunca trabajaron juntos directamente
 // y encontrar la cadena mas corta de colaboraciones que los conecta.
 // Cambiar actor1 y actor2 por los nombres deseados.
-WITH "Keanu Reeves" AS actor1, "Tom Hanks" AS actor2
+WITH "Keanu Reeves" AS actor1, "Orlando Bloom" AS actor2
 MATCH (a:Person {name: actor1})
 WITH a, actor1, actor2
 MATCH (b:Person {name: actor2})

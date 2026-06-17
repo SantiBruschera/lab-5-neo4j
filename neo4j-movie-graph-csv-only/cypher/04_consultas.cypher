@@ -223,7 +223,7 @@ RETURN rec.title AS pelicula,
 ORDER BY puntaje DESC, pelicula
 LIMIT 10;
 
-// 31. Encontrar la pelicula mas "hub": la que conecta indirectamente a mas peliculas distintas
+// 31. Encontrar la pelicula mas central: la que conecta indirectamente a mas peliculas distintas
 // a traves de actores compartidos, junto con cuantos actores sirven de puente.
 MATCH (m:Movie)<-[:ACTED_IN]-(p:Person)-[:ACTED_IN]->(other:Movie)
 WHERE m <> other
